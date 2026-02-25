@@ -1,0 +1,147 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "runner.TestGoIbibo",
+        "children" : [ {
+          "name" : "Verifying Search Hotels Functionality",
+          "uid" : "c5224244eec060f0",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199471280,
+            "stop" : 1718199492128,
+            "duration" : 20848
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "currencyFunctionality",
+          "uid" : "4d16c37d9eba1d03",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199495670,
+            "stop" : 1718199512127,
+            "duration" : 16457
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "searchTrains",
+          "uid" : "bd80c6efc53a605",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199516234,
+            "stop" : 1718199536802,
+            "duration" : 20568
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "searchCabs",
+          "uid" : "598e8e48b37e8b4f",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199540955,
+            "stop" : 1718199563646,
+            "duration" : 22691
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testBusBooking",
+          "uid" : "e0dc15084518ccef",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199567213,
+            "stop" : 1718199593278,
+            "duration" : 26065
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testFooter",
+          "uid" : "2e1e43ecfb873e5f",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199598037,
+            "stop" : 1718199634731,
+            "duration" : 36694
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "searchCabsAndLoginSignupFunctionality",
+          "uid" : "343bf12a22f80ee0",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199638557,
+            "stop" : 1718199654960,
+            "duration" : 16403
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "homePageFooterSectionFunctionality",
+          "uid" : "4c962ffc19e89e6f",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199661613,
+            "stop" : 1718199674311,
+            "duration" : 12698
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "homePage",
+          "uid" : "694465df5f0acce5",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199679228,
+            "stop" : 1718199718762,
+            "duration" : 39534
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "multiplePageExploration",
+          "uid" : "6f5774353f04191e",
+          "parentUid" : "b58fccc98c43a793e8d49333ad3720ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1718199725011,
+            "stop" : 1718199759673,
+            "duration" : 34662
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b58fccc98c43a793e8d49333ad3720ca"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

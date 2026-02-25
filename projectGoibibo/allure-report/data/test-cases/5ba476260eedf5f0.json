@@ -1,0 +1,60 @@
+{
+  "uid" : "5ba476260eedf5f0",
+  "name" : "searchTrains",
+  "fullName" : "runner.TestGoIbibo.searchTrains",
+  "historyId" : "fe770b4ef568f71ade593edad727ef72",
+  "time" : {
+    "start" : 1718199388714,
+    "stop" : 1718199388714,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testClass",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchTrains"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "host",
+    "value" : "GX1W7R3"
+  }, {
+    "name" : "thread",
+    "value" : "24120@GX1W7R3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ba476260eedf5f0.json",
+  "parameterValues" : [ ]
+}

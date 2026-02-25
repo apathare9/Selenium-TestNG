@@ -1,0 +1,92 @@
+{
+  "uid" : "f63edf47000af94c",
+  "name" : "currencyFunctionality",
+  "fullName" : "runner.TestGoIbibo.currencyFunctionality",
+  "historyId" : "1ec70847edb9636418300c8661aed9a7",
+  "time" : {
+    "start" : 1718183022278,
+    "stop" : 1718183042459,
+    "duration" : 20181
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpBrowser",
+    "time" : {
+      "start" : 1718183018417,
+      "stop" : 1718183022269,
+      "duration" : 3852
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1718183042462,
+      "stop" : 1718183042723,
+      "duration" : 261
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testClass",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testMethod",
+    "value" : "currencyFunctionality"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "host",
+    "value" : "GX1W7R3"
+  }, {
+    "name" : "thread",
+    "value" : "24420@GX1W7R3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f63edf47000af94c.json",
+  "parameterValues" : [ ]
+}

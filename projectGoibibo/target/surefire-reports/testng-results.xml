@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T19:07:44 IST" name="Surefire suite" finished-at="2024-06-12T19:12:40 IST" duration-ms="295619">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T19:07:44 IST" name="Surefire test" finished-at="2024-06-12T19:12:40 IST" duration-ms="295619">
+      <class name="runner.TestGoIbibo">
+        <test-method is-config="true" signature="createextentReport()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:07:44 IST" name="createextentReport" finished-at="2024-06-12T19:07:45 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createextentReport -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:07:45 IST" name="setUpBrowser" finished-at="2024-06-12T19:07:51 IST" duration-ms="5960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="verifySearchHotelsFunctionality()[pri:1, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:07:51 IST" name="verifySearchHotelsFunctionality" description="Verifying Search Hotels Functionality" finished-at="2024-06-12T19:08:12 IST" duration-ms="20889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchHotelsFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:12 IST" name="closeBrowser" finished-at="2024-06-12T19:08:12 IST" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:12 IST" name="setUpBrowser" finished-at="2024-06-12T19:08:15 IST" duration-ms="3030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="currencyFunctionality()[pri:2, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:15 IST" name="currencyFunctionality" finished-at="2024-06-12T19:08:32 IST" duration-ms="16464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:32 IST" name="closeBrowser" finished-at="2024-06-12T19:08:32 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:32 IST" name="setUpBrowser" finished-at="2024-06-12T19:08:36 IST" duration-ms="3713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="searchTrains()[pri:3, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:36 IST" name="searchTrains" finished-at="2024-06-12T19:08:56 IST" duration-ms="20568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTrains -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:56 IST" name="closeBrowser" finished-at="2024-06-12T19:08:57 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:08:57 IST" name="setUpBrowser" finished-at="2024-06-12T19:09:00 IST" duration-ms="3870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="searchCabs()[pri:4, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:00 IST" name="searchCabs" finished-at="2024-06-12T19:09:23 IST" duration-ms="22686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCabs -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:23 IST" name="closeBrowser" finished-at="2024-06-12T19:09:23 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:23 IST" name="setUpBrowser" finished-at="2024-06-12T19:09:27 IST" duration-ms="3297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="testBusBooking()[pri:5, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:27 IST" name="testBusBooking" finished-at="2024-06-12T19:09:53 IST" duration-ms="26069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBusBooking -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:53 IST" name="closeBrowser" finished-at="2024-06-12T19:09:53 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:53 IST" name="setUpBrowser" finished-at="2024-06-12T19:09:58 IST" duration-ms="4487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="testFooter()[pri:6, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:09:58 IST" name="testFooter" finished-at="2024-06-12T19:10:34 IST" duration-ms="36698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFooter -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:10:34 IST" name="closeBrowser" finished-at="2024-06-12T19:10:35 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:10:35 IST" name="setUpBrowser" finished-at="2024-06-12T19:10:38 IST" duration-ms="3458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="searchCabsAndLoginSignupFunctionality()[pri:7, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:10:38 IST" name="searchCabsAndLoginSignupFunctionality" finished-at="2024-06-12T19:10:54 IST" duration-ms="16406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCabsAndLoginSignupFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:10:54 IST" name="closeBrowser" finished-at="2024-06-12T19:10:56 IST" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:10:56 IST" name="setUpBrowser" finished-at="2024-06-12T19:11:01 IST" duration-ms="4783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="homePageFooterSectionFunctionality()[pri:8, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:11:01 IST" name="homePageFooterSectionFunctionality" finished-at="2024-06-12T19:11:14 IST" duration-ms="12702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageFooterSectionFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:11:14 IST" name="closeBrowser" finished-at="2024-06-12T19:11:14 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:11:14 IST" name="setUpBrowser" finished-at="2024-06-12T19:11:19 IST" duration-ms="4633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="homePage()[pri:9, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:11:19 IST" name="homePage" finished-at="2024-06-12T19:11:58 IST" duration-ms="39534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:11:58 IST" name="closeBrowser" finished-at="2024-06-12T19:11:59 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:11:59 IST" name="setUpBrowser" finished-at="2024-06-12T19:12:05 IST" duration-ms="5957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="multiplePageExploration()[pri:10, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:12:05 IST" name="multiplePageExploration" finished-at="2024-06-12T19:12:39 IST" duration-ms="34664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplePageExploration -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:12:39 IST" name="closeBrowser" finished-at="2024-06-12T19:12:40 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="flushextentReport()[pri:0, instance:runner.TestGoIbibo@39ac0c0a]" started-at="2024-06-12T19:12:40 IST" name="flushextentReport" finished-at="2024-06-12T19:12:40 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushextentReport -->
+      </class> <!-- runner.TestGoIbibo -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

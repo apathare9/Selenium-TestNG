@@ -1,0 +1,124 @@
+{
+  "uid" : "43f0b6b3c6b656d9",
+  "name" : "testFooter",
+  "fullName" : "runner.TestGoIbibo.testFooter",
+  "historyId" : "72d000b109e75ed06ae19bd67737715f",
+  "time" : {
+    "start" : 1718174475055,
+    "stop" : 1718174512872,
+    "duration" : 37817
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpBrowser",
+    "time" : {
+      "start" : 1718174469201,
+      "stop" : 1718174475052,
+      "duration" : 5851
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "createextentReport",
+    "time" : {
+      "start" : 1718174415290,
+      "stop" : 1718174415715,
+      "duration" : 425
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1718174512882,
+      "stop" : 1718174513297,
+      "duration" : 415
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "flushextentReport",
+    "time" : {
+      "start" : 1718174513297,
+      "stop" : 1718174513803,
+      "duration" : 506
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testClass",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testFooter"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "host",
+    "value" : "GX1W7R3"
+  }, {
+    "name" : "thread",
+    "value" : "9908@GX1W7R3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43f0b6b3c6b656d9.json",
+  "parameterValues" : [ ]
+}

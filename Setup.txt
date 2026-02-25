@@ -1,0 +1,7 @@
+1) Install Allure Command Line present in the Final Gladiator Folder. 
+2) Open the Zip file inside Final Gladiator named "projectGoibibo" inside eclipse.
+3) Press Ctrl + S inside pom.xml
+4) Run the Project using "mvn clean test" or "Run as Maven Test"
+5) After the execution of Script open Command Prompt inside Project Goibibo where "allure-results" is present.
+6) Inside cmd type in "allure generate" this will convert allure-results into one allure reports.
+7) Then type in "allure open", it will fire up your browser with Allure Report of your Script.

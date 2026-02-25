@@ -1,0 +1,126 @@
+{
+  "uid" : "ae8d9c95c56cdb40",
+  "name" : "searchCabsAndLoginSignupFunctionality",
+  "fullName" : "runner.TestGoIbibo.searchCabsAndLoginSignupFunctionality",
+  "historyId" : "85616fdeeea678bc23aa087b62810bd4",
+  "time" : {
+    "start" : 1718198318732,
+    "stop" : 1718198336830,
+    "duration" : 18098
+  },
+  "description" : "Verified Login & Sign up Functionalityis failed",
+  "descriptionHtml" : "<p>Verified Login &amp; Sign up Functionalityis failed</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createextentReport",
+    "time" : {
+      "start" : 1718198117018,
+      "stop" : 1718198117391,
+      "duration" : 373
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setUpBrowser",
+    "time" : {
+      "start" : 1718198314055,
+      "stop" : 1718198318722,
+      "duration" : 4667
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "flushextentReport",
+    "time" : {
+      "start" : 1718198443732,
+      "stop" : 1718198444817,
+      "duration" : 1085
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1718198336830,
+      "stop" : 1718198337304,
+      "duration" : 474
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testClass",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchCabsAndLoginSignupFunctionality"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "runner.TestGoIbibo"
+  }, {
+    "name" : "host",
+    "value" : "GX1W7R3"
+  }, {
+    "name" : "thread",
+    "value" : "13692@GX1W7R3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae8d9c95c56cdb40.json",
+  "parameterValues" : [ ]
+}

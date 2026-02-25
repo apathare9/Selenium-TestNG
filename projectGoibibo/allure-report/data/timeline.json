@@ -1,0 +1,143 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "GX1W7R3",
+    "children" : [ {
+      "name" : "18544@GX1W7R3.main(1)",
+      "children" : [ {
+        "name" : "currencyFunctionality",
+        "uid" : "4d16c37d9eba1d03",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199495670,
+          "stop" : 1718199512127,
+          "duration" : 16457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testFooter",
+        "uid" : "2e1e43ecfb873e5f",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199598037,
+          "stop" : 1718199634731,
+          "duration" : 36694
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchCabsAndLoginSignupFunctionality",
+        "uid" : "343bf12a22f80ee0",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199638557,
+          "stop" : 1718199654960,
+          "duration" : 16403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchCabs",
+        "uid" : "598e8e48b37e8b4f",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199540955,
+          "stop" : 1718199563646,
+          "duration" : 22691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "homePageFooterSectionFunctionality",
+        "uid" : "4c962ffc19e89e6f",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199661613,
+          "stop" : 1718199674311,
+          "duration" : 12698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "homePage",
+        "uid" : "694465df5f0acce5",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199679228,
+          "stop" : 1718199718762,
+          "duration" : 39534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBusBooking",
+        "uid" : "e0dc15084518ccef",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199567213,
+          "stop" : 1718199593278,
+          "duration" : 26065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "multiplePageExploration",
+        "uid" : "6f5774353f04191e",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199725011,
+          "stop" : 1718199759673,
+          "duration" : 34662
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verifying Search Hotels Functionality",
+        "uid" : "c5224244eec060f0",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199471280,
+          "stop" : 1718199492128,
+          "duration" : 20848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchTrains",
+        "uid" : "bd80c6efc53a605",
+        "parentUid" : "fcc99de06a87f0e7a8092c0b16bd744f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718199516234,
+          "stop" : 1718199536802,
+          "duration" : 20568
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fcc99de06a87f0e7a8092c0b16bd744f"
+    } ],
+    "uid" : "746de47b555a2b1970e9d677a2dc2fd3"
+  } ]
+}

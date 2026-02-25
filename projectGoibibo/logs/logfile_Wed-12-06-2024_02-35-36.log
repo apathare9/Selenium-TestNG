@@ -1,0 +1,440 @@
+[INFO] 2024-06-12 14:35:36,341 utils.LoggerHandler info - Goibibo report generated
+[INFO] 2024-06-12 14:35:38,105 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:35:43,950 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 14:35:44,020 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 14:35:48,791 utils.LoggerHandler info - Click on Hotels Section
+[INFO] 2024-06-12 14:35:48,944 utils.LoggerHandler info - Click on India Radio Button
+[INFO] 2024-06-12 14:35:49,068 utils.LoggerHandler info - Click on Input Search Bar
+[INFO] 2024-06-12 14:35:49,831 utils.LoggerHandler info - Entered value in search bar
+[INFO] 2024-06-12 14:35:49,872 utils.LoggerHandler info - Perform Arrow Down Action in Search Bar
+[INFO] 2024-06-12 14:35:50,977 utils.LoggerHandler info - Perform Enter Action in Input Search Bar
+[INFO] 2024-06-12 14:35:51,043 utils.LoggerHandler info - Click on calendar
+[INFO] 2024-06-12 14:35:51,133 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 14:35:51,247 utils.LoggerHandler info - Click on 23rd June
+[INFO] 2024-06-12 14:35:51,321 utils.LoggerHandler info - Click on guests and rooms
+[INFO] 2024-06-12 14:35:51,392 utils.LoggerHandler info - Increment child count by one
+[INFO] 2024-06-12 14:35:51,444 utils.LoggerHandler info - Click On child age option
+[INFO] 2024-06-12 14:35:51,497 utils.LoggerHandler info - Click On child age 3
+[INFO] 2024-06-12 14:35:51,568 utils.LoggerHandler info - Click On Done Button
+[INFO] 2024-06-12 14:35:51,674 utils.LoggerHandler info - Click On Search Button
+[INFO] 2024-06-12 14:35:53,201 utils.LoggerHandler info - Click on Customer Rating 4.5
+[INFO] 2024-06-12 14:35:53,328 utils.LoggerHandler info - Click on Free Breakfast Included
+[INFO] 2024-06-12 14:35:53,401 utils.LoggerHandler info - Click on First Hotel
+[INFO] 2024-06-12 14:35:53,424 utils.LoggerHandler info - Tab Switch to Hotels Search Page
+[INFO] 2024-06-12 14:35:56,798 utils.LoggerHandler info - Click on Free Cancelation
+[INFO] 2024-06-12 14:35:57,043 utils.LoggerHandler info - Click on Select Room Button
+[INFO] 2024-06-12 14:35:58,960 utils.LoggerHandler info - Click on Hotels Button
+[INFO] 2024-06-12 14:35:59,142 utils.LoggerHandler info - Click on India Radio Button
+[INFO] 2024-06-12 14:35:59,203 utils.LoggerHandler info - Click on Input Search Bar
+[INFO] 2024-06-12 14:35:59,329 utils.LoggerHandler info - Entered value in search bar
+[INFO] 2024-06-12 14:35:59,388 utils.LoggerHandler info - Perform Arrow Down in Input Search Bar
+[INFO] 2024-06-12 14:36:00,515 utils.LoggerHandler info - Perform Enter Action in Input Search Bar
+[INFO] 2024-06-12 14:36:00,573 utils.LoggerHandler info - Click on calendar
+[INFO] 2024-06-12 14:36:00,627 utils.LoggerHandler info - Click on 12th June
+[INFO] 2024-06-12 14:36:00,700 utils.LoggerHandler info - Click on 15th June
+[INFO] 2024-06-12 14:36:00,761 utils.LoggerHandler info - Click on guests and rooms
+[INFO] 2024-06-12 14:36:00,829 utils.LoggerHandler info - Decrement child count by one
+[INFO] 2024-06-12 14:36:00,882 utils.LoggerHandler info - Increment child count by one
+[INFO] 2024-06-12 14:36:00,934 utils.LoggerHandler info - Click On child age option
+[INFO] 2024-06-12 14:36:01,063 utils.LoggerHandler info - Click On child age 4
+[INFO] 2024-06-12 14:36:01,129 utils.LoggerHandler info - Click On Done Button
+[INFO] 2024-06-12 14:36:01,225 utils.LoggerHandler info - Click On Search Button
+[INFO] 2024-06-12 14:36:02,913 utils.LoggerHandler info - Click on Clear Filters
+[INFO] 2024-06-12 14:36:03,114 utils.LoggerHandler info - Click on Customer Rating 4.5
+[INFO] 2024-06-12 14:36:03,256 utils.LoggerHandler info - Click on Free Breakfast Included
+[INFO] 2024-06-12 14:36:03,315 utils.LoggerHandler info - Click on First Hotel
+[INFO] 2024-06-12 14:36:03,374 utils.LoggerHandler info - Tab Switch to Hotels Search Page
+[INFO] 2024-06-12 14:36:04,822 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:36:07,868 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 14:36:08,007 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 14:36:08,131 utils.LoggerHandler info - Click on Forex Section
+[INFO] 2024-06-12 14:36:08,152 utils.LoggerHandler info - Tab Switch to Forex Cards & Currency Page
+[INFO] 2024-06-12 14:36:10,895 utils.LoggerHandler info - Scrolled upto Multi Currency Option
+[INFO] 2024-06-12 14:36:10,974 utils.LoggerHandler info - Fetched 'What is a Multi Currency Card Option' 
+[INFO] 2024-06-12 14:36:10,993 utils.LoggerHandler info - Verified What is a Multi Currency Option
+[INFO] 2024-06-12 14:36:14,411 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 14:36:14,474 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 14:36:17,108 utils.LoggerHandler info - Clicked On More Links
+[INFO] 2024-06-12 14:36:20,739 utils.LoggerHandler info - Verified 'Get started today for free!' 
+[INFO] 2024-06-12 14:36:20,761 utils.LoggerHandler info - Tab Switched to New Extra Net
+[INFO] 2024-06-12 14:36:22,410 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:36:32,279 utils.LoggerHandler info - Trains option in the navigation bar is clicked
+[INFO] 2024-06-12 14:36:32,423 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 14:36:32,981 utils.LoggerHandler info - The text Coimbatore is entered in the 'From' field
+[INFO] 2024-06-12 14:36:33,598 utils.LoggerHandler info - CBE, Coimbatore Main Junction is selected from the list
+[INFO] 2024-06-12 14:36:33,657 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 14:36:33,865 utils.LoggerHandler info - The text Chennai is entered in the 'To' field
+[INFO] 2024-06-12 14:36:34,602 utils.LoggerHandler info - MAS, Chennai - All Stations is selected from the list
+[INFO] 2024-06-12 14:36:34,660 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 14:36:34,801 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 14:36:37,513 utils.LoggerHandler info - Total number of trains available on the selected date is printed
+[INFO] 2024-06-12 14:36:38,359 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 14:36:38,484 utils.LoggerHandler info - The text Pune is entered in the 'From' field
+[INFO] 2024-06-12 14:36:39,209 utils.LoggerHandler info - PUNE, Pune Junction is selected from the list
+[INFO] 2024-06-12 14:36:39,278 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 14:36:39,790 utils.LoggerHandler info - The text Mumbai is entered in the 'To' field
+[INFO] 2024-06-12 14:36:40,590 utils.LoggerHandler info - CSTM, Mumbai CST is selected from the list
+[INFO] 2024-06-12 14:36:40,649 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 14:36:40,785 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 14:36:43,338 utils.LoggerHandler info - Total number of trains available on the selected date is printed
+[INFO] 2024-06-12 14:36:44,324 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 14:36:44,490 utils.LoggerHandler info - The text Hyderabad is entered in the 'From' field
+[INFO] 2024-06-12 14:36:45,131 utils.LoggerHandler info - HYB, Hyderabad Deccan is selected from the list
+[INFO] 2024-06-12 14:36:45,184 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 14:36:45,384 utils.LoggerHandler info - The text Goa is entered in the 'To' field
+[INFO] 2024-06-12 14:36:46,417 utils.LoggerHandler info - MAO, Madgaon Junction is selected from the list
+[INFO] 2024-06-12 14:36:46,482 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 14:36:46,584 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 14:36:47,903 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:36:57,751 utils.LoggerHandler info - Cabs option in the navigation bar is clicked
+[INFO] 2024-06-12 14:36:57,927 utils.LoggerHandler info - Airport transfer radio button in the cabs page is clicked
+[INFO] 2024-06-12 14:36:58,011 utils.LoggerHandler info - The field 'From' in the cabs page is clicked
+[INFO] 2024-06-12 14:36:58,213 utils.LoggerHandler info - The text Coimbatore International Airport is entered in the 'From' field
+[INFO] 2024-06-12 14:36:58,941 utils.LoggerHandler info - Coimbatore International Airport is selected from the list
+[INFO] 2024-06-12 14:36:59,020 utils.LoggerHandler info - The field 'To' in the cabs page is clicked
+[INFO] 2024-06-12 14:36:59,168 utils.LoggerHandler info - The text Mettupalayam, Tamil Nadu, India
+is entered in the 'To' field
+[INFO] 2024-06-12 14:36:59,743 utils.LoggerHandler info - Mettupalayam, Tamil Nadu, India
+ is selected from the list
+[INFO] 2024-06-12 14:36:59,858 utils.LoggerHandler info - The field 'Pickup Date' is selected
+[INFO] 2024-06-12 14:36:59,913 utils.LoggerHandler info - The Pickup date is selected from the calendar
+[INFO] 2024-06-12 14:37:00,031 utils.LoggerHandler info - The field 'Pickup Time' is selected
+[INFO] 2024-06-12 14:37:00,082 utils.LoggerHandler info - The Pickup time is selected from the drop down list
+[INFO] 2024-06-12 14:37:00,198 utils.LoggerHandler info - Search cabs button is clicked
+[INFO] 2024-06-12 14:37:00,222 utils.LoggerHandler info - Verifying the title of the Cabs Result Page
+[INFO] 2024-06-12 14:37:02,291 utils.LoggerHandler info - Select the first cab in the Cabs result page
+[INFO] 2024-06-12 14:37:02,760 utils.LoggerHandler info - The page is scrolled to the traveller's field
+[INFO] 2024-06-12 14:37:02,879 utils.LoggerHandler info - Click on the 'Full Name' field in the Cabs payment page
+[INFO] 2024-06-12 14:37:03,086 utils.LoggerHandler info - Full name of the traveller is entered in the 'Name' field
+[INFO] 2024-06-12 14:37:03,175 utils.LoggerHandler info - Click on the 'Mobile number' field in the Cabs payment page
+[INFO] 2024-06-12 14:37:03,388 utils.LoggerHandler info - Mobile Number of the traveller is entered in the 'Mobile Number' field
+[INFO] 2024-06-12 14:37:03,451 utils.LoggerHandler info - Click on the 'Email' field in the Cabs payment page
+[INFO] 2024-06-12 14:37:03,652 utils.LoggerHandler info - Email of the traveller is entered in the 'Email' field
+[INFO] 2024-06-12 14:37:03,734 utils.LoggerHandler info - Click on the 'Confirm and Pay' button in the Cabs payment page
+[INFO] 2024-06-12 14:37:09,720 utils.LoggerHandler info - The field 'From' in the cabs page is clicked
+[INFO] 2024-06-12 14:37:09,961 utils.LoggerHandler info - The text Indira Gandhi International Airport, Delhi 
+ is entered in the 'From' field
+[INFO] 2024-06-12 14:37:10,496 utils.LoggerHandler info - Indira Gandhi International Airport, Delhi 
+ is selected from the list
+[INFO] 2024-06-12 14:37:10,566 utils.LoggerHandler info - The field 'To' in the cabs page is clicked
+[INFO] 2024-06-12 14:37:10,756 utils.LoggerHandler info - The text Gurgaon, Haryana, India
+is entered in the 'To' field
+[INFO] 2024-06-12 14:37:11,342 utils.LoggerHandler info - Gurgaon, Haryana, India is selected from the list
+[INFO] 2024-06-12 14:37:11,418 utils.LoggerHandler info - The field 'Pickup Date' is selected
+[INFO] 2024-06-12 14:37:11,473 utils.LoggerHandler info - The Pickup date is selected from the calendar
+[INFO] 2024-06-12 14:37:11,560 utils.LoggerHandler info - The field 'Pickup Time' is selected
+[INFO] 2024-06-12 14:37:11,610 utils.LoggerHandler info - The Pickup time is selected from the drop down list
+[INFO] 2024-06-12 14:37:11,741 utils.LoggerHandler info - Search cabs button is clicked
+[INFO] 2024-06-12 14:37:13,065 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:37:17,110 utils.LoggerHandler info - Popup Closed
+[INFO] 2024-06-12 14:37:21,552 utils.LoggerHandler info - Clicked On Bus
+[INFO] 2024-06-12 14:37:21,690 utils.LoggerHandler info - Entered Source Location
+[INFO] 2024-06-12 14:37:22,654 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 14:37:22,782 utils.LoggerHandler info - Entered Destination Location
+[INFO] 2024-06-12 14:37:23,380 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 14:37:23,507 utils.LoggerHandler info - Clicked on Travel date
+[INFO] 2024-06-12 14:37:23,575 utils.LoggerHandler info - Date selected
+[INFO] 2024-06-12 14:37:23,770 utils.LoggerHandler info - Clicked on Search
+[INFO] 2024-06-12 14:37:29,175 utils.LoggerHandler info - selected checkbox Live Tracking
+[INFO] 2024-06-12 14:37:30,056 utils.LoggerHandler info - selected checkbox Go Deal Discount
+[INFO] 2024-06-12 14:37:30,079 utils.LoggerHandler info - scrolled down to Amenities
+[INFO] 2024-06-12 14:37:30,585 utils.LoggerHandler info - selected checkbox Water Bottle
+[INFO] 2024-06-12 14:37:30,612 utils.LoggerHandler info - Number of Buses for selected filter
+[INFO] 2024-06-12 14:37:54,476 utils.LoggerHandler info - Clicked On Bus
+[INFO] 2024-06-12 14:37:54,709 utils.LoggerHandler info - Deleted previously populated text in 'From' input bar
+[INFO] 2024-06-12 14:37:54,836 utils.LoggerHandler info - Entered Source Location
+[INFO] 2024-06-12 14:37:55,380 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 14:37:55,466 utils.LoggerHandler info - Deleted previously populated text in 'To' input bar
+[INFO] 2024-06-12 14:37:55,584 utils.LoggerHandler info - Entered Destination Location
+[INFO] 2024-06-12 14:37:56,162 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 14:37:56,239 utils.LoggerHandler info - Clicked on Travel Date
+[INFO] 2024-06-12 14:37:56,299 utils.LoggerHandler info - Date Selected
+[INFO] 2024-06-12 14:37:56,540 utils.LoggerHandler info - Clicked on Search
+[INFO] 2024-06-12 14:37:57,886 utils.LoggerHandler info - Clicked On Primo Bus Filter
+[INFO] 2024-06-12 14:37:58,090 utils.LoggerHandler info - selected checkbox AC
+[INFO] 2024-06-12 14:37:58,112 utils.LoggerHandler info - scrolled down to Amenities
+[INFO] 2024-06-12 14:37:58,476 utils.LoggerHandler info - selected checkbox Blankets
+[INFO] 2024-06-12 14:37:58,501 utils.LoggerHandler info - Number of Buses for selected filter
+[INFO] 2024-06-12 14:37:59,889 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:38:03,465 utils.LoggerHandler info - Popup Closed
+[INFO] 2024-06-12 14:38:06,614 utils.LoggerHandler info - Clicked on About Us
+[INFO] 2024-06-12 14:38:06,632 utils.LoggerHandler info - About Us - link verified
+[INFO] 2024-06-12 14:38:10,039 utils.LoggerHandler info - Clicked on Investor Relations
+[INFO] 2024-06-12 14:38:10,045 utils.LoggerHandler info - Investor Relations - link verified
+[INFO] 2024-06-12 14:38:12,811 utils.LoggerHandler info - Clicked on Management
+[INFO] 2024-06-12 14:38:12,838 utils.LoggerHandler info - Management - link verified
+[INFO] 2024-06-12 14:38:14,706 utils.LoggerHandler info - Clicked on User Agreement
+[INFO] 2024-06-12 14:38:14,753 utils.LoggerHandler info - User Agreement - link verified
+[INFO] 2024-06-12 14:38:16,581 utils.LoggerHandler info - Clicked on Privacy
+[INFO] 2024-06-12 14:38:16,601 utils.LoggerHandler info - Privacy - link verified
+[INFO] 2024-06-12 14:38:17,773 utils.LoggerHandler info - Clicked on Careers
+[INFO] 2024-06-12 14:38:17,842 utils.LoggerHandler info - Switched to Careers tab
+[INFO] 2024-06-12 14:38:18,829 utils.LoggerHandler info - Careers - link verified
+[INFO] 2024-06-12 14:38:19,082 utils.LoggerHandler info - Clicked on YouTube Channel
+[INFO] 2024-06-12 14:38:19,102 utils.LoggerHandler info - Switched to YouTube Channel tab
+[INFO] 2024-06-12 14:38:23,329 utils.LoggerHandler info - YouTube Channel - link verified
+[INFO] 2024-06-12 14:38:23,493 utils.LoggerHandler info - Clicked on Technology@Goibibo
+[INFO] 2024-06-12 14:38:23,512 utils.LoggerHandler info - Switched to Technology tab
+[INFO] 2024-06-12 14:38:28,597 utils.LoggerHandler info - Technology@Goibibo - link verified
+[INFO] 2024-06-12 14:38:28,787 utils.LoggerHandler info - Clicked on Facebook Page
+[INFO] 2024-06-12 14:38:28,809 utils.LoggerHandler info - Switched to Facebook Page tab
+[INFO] 2024-06-12 14:38:31,930 utils.LoggerHandler info - Facebook Page - link verified
+[INFO] 2024-06-12 14:38:32,112 utils.LoggerHandler info - Clicked on Twitter Handle
+[INFO] 2024-06-12 14:38:32,128 utils.LoggerHandler info - Switched to Twitter tab
+[INFO] 2024-06-12 14:38:39,782 utils.LoggerHandler info - Twitter Handle - link verified
+[INFO] 2024-06-12 14:38:41,330 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:38:51,267 utils.LoggerHandler info - Cabs option in the navigation bar is clicked
+[INFO] 2024-06-12 14:38:51,270 utils.LoggerHandler info - Switched to new window
+[INFO] 2024-06-12 14:38:51,401 utils.LoggerHandler info - Clicked on outstation one way radio button
+[INFO] 2024-06-12 14:38:51,470 utils.LoggerHandler info - Clicked on Pickup Location field on cabs page
+[INFO] 2024-06-12 14:38:51,557 utils.LoggerHandler info - Entered data in pickup location firld
+[INFO] 2024-06-12 14:38:53,656 utils.LoggerHandler info - Down arrow action performed
+[INFO] 2024-06-12 14:38:53,708 utils.LoggerHandler info - Enter action performed
+[INFO] 2024-06-12 14:38:53,773 utils.LoggerHandler info - Clicked on Drop Location field on cabs page
+[INFO] 2024-06-12 14:38:53,854 utils.LoggerHandler info - Entered data in drop location field
+[INFO] 2024-06-12 14:38:55,912 utils.LoggerHandler info - Down arrow action performed
+[INFO] 2024-06-12 14:38:55,969 utils.LoggerHandler info - Enter action performed
+[INFO] 2024-06-12 14:38:56,074 utils.LoggerHandler info - Clicked on pickup Date Input Field
+[INFO] 2024-06-12 14:38:56,190 utils.LoggerHandler info - Selected Date
+[INFO] 2024-06-12 14:38:56,304 utils.LoggerHandler info - Clicked on pickup Time Input Field
+[INFO] 2024-06-12 14:38:56,348 utils.LoggerHandler info - Scrolled on pickup time field
+[INFO] 2024-06-12 14:38:56,411 utils.LoggerHandler info - Selected Time
+[INFO] 2024-06-12 14:38:56,518 utils.LoggerHandler info - Clicked on Search Cabs
+[INFO] 2024-06-12 14:38:56,522 utils.LoggerHandler info - Switched to new window
+[INFO] 2024-06-12 14:38:58,453 utils.LoggerHandler info - Scrolled till car model filter
+[INFO] 2024-06-12 14:38:58,531 utils.LoggerHandler info - Clicked on dzire or similar in car model filter
+[INFO] 2024-06-12 14:38:58,555 utils.LoggerHandler info - Scrolled till car select button
+[INFO] 2024-06-12 14:38:58,669 utils.LoggerHandler info - Clicked on first car select button
+[INFO] 2024-06-12 14:38:59,370 utils.LoggerHandler info - Clicked on pay and confirm now
+[INFO] 2024-06-12 14:38:59,393 utils.LoggerHandler info - Scrolled till gendre dropdown button on cabs search result page
+[INFO] 2024-06-12 14:38:59,525 utils.LoggerHandler info - Selected female value in gender dropdown
+[INFO] 2024-06-12 14:38:59,704 utils.LoggerHandler info - Entered data in name input field in traveller details
+[INFO] 2024-06-12 14:38:59,929 utils.LoggerHandler info - Entered data in mobile number input field in traveller details
+[INFO] 2024-06-12 14:39:00,121 utils.LoggerHandler info - Entered data in email input field in traveller details
+[INFO] 2024-06-12 14:39:00,213 utils.LoggerHandler info - Clicked on signin/signup field
+[INFO] 2024-06-12 14:39:00,255 utils.LoggerHandler info - login and sign up text verified
+[INFO] 2024-06-12 14:39:01,979 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:39:05,537 utils.LoggerHandler info - Closed login popup
+[INFO] 2024-06-12 14:39:09,451 utils.LoggerHandler info - Clicked on cheap flights
+[INFO] 2024-06-12 14:39:09,458 utils.LoggerHandler info - cheap flights url verified
+[INFO] 2024-06-12 14:39:11,529 utils.LoggerHandler info - Clicked on my account
+[INFO] 2024-06-12 14:39:11,565 utils.LoggerHandler info - my profile text verified
+[INFO] 2024-06-12 14:39:12,990 utils.LoggerHandler info - Clicked on wallet
+[INFO] 2024-06-12 14:39:13,019 utils.LoggerHandler info - provides information gocash balance verified
+[INFO] 2024-06-12 14:39:17,582 utils.LoggerHandler info - Clicked on advertise with us
+[INFO] 2024-06-12 14:39:17,600 utils.LoggerHandler info -  provides information on advertising verified
+[INFO] 2024-06-12 14:39:19,682 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:39:23,914 utils.LoggerHandler info - Hide Pop up
+[INFO] 2024-06-12 14:39:23,980 utils.LoggerHandler info - Hide Offer Pop up
+[INFO] 2024-06-12 14:39:25,060 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 14:39:25,127 utils.LoggerHandler info - Enter Bengaluru
+[INFO] 2024-06-12 14:39:26,202 utils.LoggerHandler info - Press Enter on Mumbai
+[INFO] 2024-06-12 14:39:26,275 utils.LoggerHandler info - Enter New Delhi
+[INFO] 2024-06-12 14:39:27,320 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 14:39:27,410 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 14:39:27,476 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 14:39:27,578 utils.LoggerHandler info - Click on Return
+[INFO] 2024-06-12 14:39:27,651 utils.LoggerHandler info - Click on 23rd June
+[INFO] 2024-06-12 14:39:27,732 utils.LoggerHandler info - Click on Travellers
+[INFO] 2024-06-12 14:39:27,787 utils.LoggerHandler info - Increase Adult Count
+[INFO] 2024-06-12 14:39:27,840 utils.LoggerHandler info - Increase Child Count
+[INFO] 2024-06-12 14:39:27,885 utils.LoggerHandler info - Click on Business
+[INFO] 2024-06-12 14:39:28,022 utils.LoggerHandler info - Click on Done
+[INFO] 2024-06-12 14:39:29,046 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 14:39:42,661 utils.LoggerHandler info - Click on Flights
+[INFO] 2024-06-12 14:39:43,759 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 14:39:44,846 utils.LoggerHandler info - Enter Hyderabad
+[INFO] 2024-06-12 14:39:45,897 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 14:39:46,968 utils.LoggerHandler info - Enter Mumbai
+[INFO] 2024-06-12 14:39:48,026 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 14:39:48,094 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 14:39:48,161 utils.LoggerHandler info - Click On 11th June
+[INFO] 2024-06-12 14:39:48,216 utils.LoggerHandler info - Click On 14th June
+[INFO] 2024-06-12 14:39:50,253 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 14:39:55,501 utils.LoggerHandler info - Click on Flights
+[INFO] 2024-06-12 14:39:56,590 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 14:39:57,677 utils.LoggerHandler info - Enter Kolkata
+[INFO] 2024-06-12 14:39:58,736 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 14:39:59,799 utils.LoggerHandler info - Enter Chennai
+[INFO] 2024-06-12 14:40:00,857 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 14:40:00,922 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 14:40:00,962 utils.LoggerHandler info - Click on 17th June
+[INFO] 2024-06-12 14:40:01,000 utils.LoggerHandler info - Click on 21th June
+[INFO] 2024-06-12 14:40:01,067 utils.LoggerHandler info - Click on Travellers
+[INFO] 2024-06-12 14:40:01,119 utils.LoggerHandler info - Decrease Adult Count
+[INFO] 2024-06-12 14:40:01,160 utils.LoggerHandler info - Increase Child Count
+[INFO] 2024-06-12 14:40:01,216 utils.LoggerHandler info - Click on Done
+[INFO] 2024-06-12 14:40:03,445 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 14:40:04,936 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:40:09,338 utils.LoggerHandler info - Click on Popup Cancellation Button
+[INFO] 2024-06-12 14:40:09,393 utils.LoggerHandler info - Click on Offers Pop up Cancellation Button
+[INFO] 2024-06-12 14:40:09,458 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 14:40:09,540 utils.LoggerHandler info - Enter Mumbai
+[INFO] 2024-06-12 14:40:10,602 utils.LoggerHandler info - Enter Mumbai
+[INFO] 2024-06-12 14:40:10,669 utils.LoggerHandler info - Enter Delhi
+[INFO] 2024-06-12 14:40:11,709 utils.LoggerHandler info - Press Enter on Delhi
+[INFO] 2024-06-12 14:40:11,838 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 14:40:12,929 utils.LoggerHandler info - Click on 15th June
+[INFO] 2024-06-12 14:40:13,028 utils.LoggerHandler info - Click on Return
+[INFO] 2024-06-12 14:40:14,100 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 14:40:14,170 utils.LoggerHandler info - Click on Travellers
+[INFO] 2024-06-12 14:40:14,228 utils.LoggerHandler info - Increase Child Count 
+[INFO] 2024-06-12 14:40:14,278 utils.LoggerHandler info - Click on Economy
+[INFO] 2024-06-12 14:40:14,329 utils.LoggerHandler info - Click on Done
+[INFO] 2024-06-12 14:40:16,062 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 14:40:16,073 utils.LoggerHandler info - Verify the Title
+[INFO] 2024-06-12 14:40:22,275 utils.LoggerHandler info - Click on Trains
+[INFO] 2024-06-12 14:40:23,332 utils.LoggerHandler info - Click on From Trains Box
+[INFO] 2024-06-12 14:40:24,403 utils.LoggerHandler info - Enter Train From Mumbai
+[INFO] 2024-06-12 14:40:25,445 utils.LoggerHandler info - Click on Mumbai
+[INFO] 2024-06-12 14:40:26,503 utils.LoggerHandler info - Click on Trains to Box
+[INFO] 2024-06-12 14:40:27,570 utils.LoggerHandler info - Enter Trains for Pune
+[INFO] 2024-06-12 14:40:28,665 utils.LoggerHandler info - Click on Pune All Staions
+[INFO] 2024-06-12 14:40:29,708 utils.LoggerHandler info - Click on 16th June
+[INFO] 2024-06-12 14:40:29,773 utils.LoggerHandler info - Scroll to Search Trains & Click on it
+[DEBUG] 2024-06-12 14:40:31,083 freemarker.cache debug - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,085 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,088 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,089 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,089 freemarker.cache debug - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2024-06-12 14:40:31,178 freemarker.cache debug - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,180 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,181 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,182 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,182 freemarker.cache debug - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2024-06-12 14:40:31,311 freemarker.cache debug - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,312 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,313 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,314 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,314 freemarker.cache debug - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2024-06-12 14:40:31,327 freemarker.cache debug - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,328 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,329 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,329 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,329 freemarker.cache debug - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2024-06-12 14:40:31,330 freemarker.cache debug - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,331 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,331 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,332 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,332 freemarker.cache debug - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2024-06-12 14:40:31,334 freemarker.cache debug - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,335 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,336 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,336 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,336 freemarker.cache debug - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2024-06-12 14:40:31,339 freemarker.cache debug - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,340 freemarker.cache debug - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,340 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,341 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,342 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,342 freemarker.cache debug - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2024-06-12 14:40:31,348 freemarker.cache debug - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,349 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,350 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,351 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,351 freemarker.cache debug - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2024-06-12 14:40:31,354 freemarker.cache debug - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,355 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,355 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,356 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,356 freemarker.cache debug - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2024-06-12 14:40:31,357 freemarker.cache debug - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,357 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,358 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,358 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,358 freemarker.cache debug - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2024-06-12 14:40:31,366 freemarker.cache debug - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,367 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,367 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,368 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,368 freemarker.cache debug - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2024-06-12 14:40:31,378 freemarker.cache debug - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,379 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,380 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,380 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,380 freemarker.cache debug - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2024-06-12 14:40:31,388 freemarker.cache debug - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,389 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,389 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,389 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,390 freemarker.cache debug - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2024-06-12 14:40:31,401 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,404 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,407 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,411 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,413 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,416 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,422 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,423 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,425 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,426 freemarker.cache debug - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,426 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,427 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,427 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,427 freemarker.cache debug - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+[DEBUG] 2024-06-12 14:40:31,428 freemarker.cache debug - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,429 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,430 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,431 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,431 freemarker.cache debug - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2024-06-12 14:40:31,432 freemarker.cache debug - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,432 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,434 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,434 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,434 freemarker.cache debug - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+[DEBUG] 2024-06-12 14:40:31,435 freemarker.cache debug - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,436 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,436 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,437 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,437 freemarker.cache debug - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+[DEBUG] 2024-06-12 14:40:31,438 freemarker.cache debug - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,439 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,439 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,440 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,440 freemarker.cache debug - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+[DEBUG] 2024-06-12 14:40:31,441 freemarker.cache debug - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,442 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,443 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,443 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,443 freemarker.cache debug - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2024-06-12 14:40:31,470 freemarker.cache debug - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,470 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,471 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,472 freemarker.cache debug - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,472 freemarker.cache debug - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2024-06-12 14:40:31,473 freemarker.cache debug - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-06-12 14:40:31,474 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,474 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2024-06-12 14:40:31,475 freemarker.cache debug - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2024-06-12 14:40:31,475 freemarker.cache debug - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/10740061/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+[DEBUG] 2024-06-12 14:40:31,488 freemarker.cache debug - "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,488 freemarker.cache debug - "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,489 freemarker.cache debug - "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,489 freemarker.cache debug - "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,489 freemarker.cache debug - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,489 freemarker.cache debug - "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,489 freemarker.cache debug - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,489 freemarker.cache debug - "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,490 freemarker.cache debug - "spark/partials/head.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,490 freemarker.cache debug - "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,490 freemarker.cache debug - "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,490 freemarker.cache debug - "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,491 freemarker.cache debug - "spark/partials/test.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,492 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,494 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,496 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,497 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,498 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,501 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,502 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,505 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,506 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,507 freemarker.cache debug - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,508 freemarker.cache debug - "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,508 freemarker.cache debug - "spark/partials/category.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,508 freemarker.cache debug - "spark/partials/device.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,508 freemarker.cache debug - "spark/partials/author.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,508 freemarker.cache debug - "spark/partials/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,509 freemarker.cache debug - "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,512 freemarker.cache debug - "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-06-12 14:40:31,513 freemarker.cache debug - "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.

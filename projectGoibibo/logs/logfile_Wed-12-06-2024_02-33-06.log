@@ -1,0 +1,131 @@
+[INFO] 2024-06-12 14:33:06,954 utils.LoggerHandler info - Goibibo report generated
+[INFO] 2024-06-12 14:33:08,797 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:33:11,881 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 14:33:12,027 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 14:33:15,408 utils.LoggerHandler info - Click on Hotels Section
+[INFO] 2024-06-12 14:33:15,568 utils.LoggerHandler info - Click on India Radio Button
+[INFO] 2024-06-12 14:33:15,658 utils.LoggerHandler info - Click on Input Search Bar
+[INFO] 2024-06-12 14:33:16,433 utils.LoggerHandler info - Entered value in search bar
+[INFO] 2024-06-12 14:33:16,468 utils.LoggerHandler info - Perform Arrow Down Action in Search Bar
+[INFO] 2024-06-12 14:33:17,628 utils.LoggerHandler info - Perform Enter Action in Input Search Bar
+[INFO] 2024-06-12 14:33:17,701 utils.LoggerHandler info - Click on calendar
+[INFO] 2024-06-12 14:33:17,793 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 14:33:17,905 utils.LoggerHandler info - Click on 23rd June
+[INFO] 2024-06-12 14:33:18,060 utils.LoggerHandler info - Click on guests and rooms
+[INFO] 2024-06-12 14:33:18,138 utils.LoggerHandler info - Increment child count by one
+[INFO] 2024-06-12 14:33:18,291 utils.LoggerHandler info - Click On child age option
+[INFO] 2024-06-12 14:33:18,449 utils.LoggerHandler info - Click On child age 3
+[INFO] 2024-06-12 14:33:18,532 utils.LoggerHandler info - Click On Done Button
+[INFO] 2024-06-12 14:33:18,645 utils.LoggerHandler info - Click On Search Button
+[INFO] 2024-06-12 14:33:20,625 utils.LoggerHandler info - Click on Customer Rating 4.5
+[INFO] 2024-06-12 14:33:20,768 utils.LoggerHandler info - Click on Free Breakfast Included
+[INFO] 2024-06-12 14:33:20,863 utils.LoggerHandler info - Click on First Hotel
+[INFO] 2024-06-12 14:33:20,888 utils.LoggerHandler info - Tab Switch to Hotels Search Page
+[INFO] 2024-06-12 14:33:24,365 utils.LoggerHandler info - Click on Free Cancelation
+[INFO] 2024-06-12 14:33:24,505 utils.LoggerHandler info - Click on Select Room Button
+[INFO] 2024-06-12 14:33:26,444 utils.LoggerHandler info - Click on Hotels Button
+[INFO] 2024-06-12 14:33:26,618 utils.LoggerHandler info - Click on India Radio Button
+[INFO] 2024-06-12 14:33:26,683 utils.LoggerHandler info - Click on Input Search Bar
+[INFO] 2024-06-12 14:33:26,966 utils.LoggerHandler info - Entered value in search bar
+[INFO] 2024-06-12 14:33:27,019 utils.LoggerHandler info - Perform Arrow Down in Input Search Bar
+[INFO] 2024-06-12 14:33:28,094 utils.LoggerHandler info - Perform Enter Action in Input Search Bar
+[INFO] 2024-06-12 14:33:28,159 utils.LoggerHandler info - Click on calendar
+[INFO] 2024-06-12 14:33:28,219 utils.LoggerHandler info - Click on 12th June
+[INFO] 2024-06-12 14:33:28,292 utils.LoggerHandler info - Click on 15th June
+[INFO] 2024-06-12 14:33:28,406 utils.LoggerHandler info - Click on guests and rooms
+[INFO] 2024-06-12 14:33:28,481 utils.LoggerHandler info - Decrement child count by one
+[INFO] 2024-06-12 14:33:28,540 utils.LoggerHandler info - Increment child count by one
+[INFO] 2024-06-12 14:33:28,585 utils.LoggerHandler info - Click On child age option
+[INFO] 2024-06-12 14:33:28,640 utils.LoggerHandler info - Click On child age 4
+[INFO] 2024-06-12 14:33:28,697 utils.LoggerHandler info - Click On Done Button
+[INFO] 2024-06-12 14:33:28,801 utils.LoggerHandler info - Click On Search Button
+[INFO] 2024-06-12 14:33:31,281 utils.LoggerHandler info - Click on Clear Filters
+[INFO] 2024-06-12 14:33:31,446 utils.LoggerHandler info - Click on Customer Rating 4.5
+[INFO] 2024-06-12 14:33:31,591 utils.LoggerHandler info - Click on Free Breakfast Included
+[INFO] 2024-06-12 14:33:31,658 utils.LoggerHandler info - Click on First Hotel
+[INFO] 2024-06-12 14:33:31,726 utils.LoggerHandler info - Tab Switch to Hotels Search Page
+[ERROR] 2024-06-12 14:33:37,554 utils.LoggerHandler error - Click on Free Cancelation
+[INFO] 2024-06-12 14:33:37,970 utils.LoggerHandler info - Click on Select Room Button
+[INFO] 2024-06-12 14:33:39,372 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:33:42,941 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 14:33:42,989 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 14:33:43,091 utils.LoggerHandler info - Click on Forex Section
+[INFO] 2024-06-12 14:33:43,112 utils.LoggerHandler info - Tab Switch to Forex Cards & Currency Page
+[INFO] 2024-06-12 14:33:47,942 utils.LoggerHandler info - Scrolled upto Multi Currency Option
+[INFO] 2024-06-12 14:33:48,048 utils.LoggerHandler info - Fetched 'What is a Multi Currency Card Option' 
+[INFO] 2024-06-12 14:33:48,081 utils.LoggerHandler info - Verified What is a Multi Currency Option
+[INFO] 2024-06-12 14:33:53,557 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 14:33:53,671 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 14:33:56,787 utils.LoggerHandler info - Clicked On More Links
+[INFO] 2024-06-12 14:34:02,174 utils.LoggerHandler info - Verified 'Get started today for free!' 
+[INFO] 2024-06-12 14:34:02,227 utils.LoggerHandler info - Tab Switched to New Extra Net
+[INFO] 2024-06-12 14:34:03,766 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:34:15,403 utils.LoggerHandler info - Trains option in the navigation bar is clicked
+[INFO] 2024-06-12 14:34:15,539 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 14:34:16,243 utils.LoggerHandler info - The text Coimbatore is entered in the 'From' field
+[INFO] 2024-06-12 14:34:17,035 utils.LoggerHandler info - CBE, Coimbatore Main Junction is selected from the list
+[INFO] 2024-06-12 14:34:17,148 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 14:34:17,390 utils.LoggerHandler info - The text Chennai is entered in the 'To' field
+[INFO] 2024-06-12 14:34:19,170 utils.LoggerHandler info - MAS, Chennai - All Stations is selected from the list
+[INFO] 2024-06-12 14:34:19,248 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 14:34:19,417 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 14:34:22,011 utils.LoggerHandler info - Total number of trains available on the selected date is printed
+[INFO] 2024-06-12 14:34:22,504 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 14:34:22,599 utils.LoggerHandler info - The text Pune is entered in the 'From' field
+[INFO] 2024-06-12 14:34:23,320 utils.LoggerHandler info - PUNE, Pune Junction is selected from the list
+[INFO] 2024-06-12 14:34:23,382 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 14:34:23,546 utils.LoggerHandler info - The text Mumbai is entered in the 'To' field
+[INFO] 2024-06-12 14:34:25,129 utils.LoggerHandler info - CSTM, Mumbai CST is selected from the list
+[INFO] 2024-06-12 14:34:25,209 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 14:34:25,331 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 14:34:29,046 utils.LoggerHandler info - Total number of trains available on the selected date is printed
+[INFO] 2024-06-12 14:34:30,196 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 14:34:30,351 utils.LoggerHandler info - The text Hyderabad is entered in the 'From' field
+[INFO] 2024-06-12 14:34:31,001 utils.LoggerHandler info - HYB, Hyderabad Deccan is selected from the list
+[INFO] 2024-06-12 14:34:31,096 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 14:34:31,318 utils.LoggerHandler info - The text Goa is entered in the 'To' field
+[INFO] 2024-06-12 14:34:32,656 utils.LoggerHandler info - MAO, Madgaon Junction is selected from the list
+[INFO] 2024-06-12 14:34:32,733 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 14:34:32,847 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 14:34:34,350 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:34:46,305 utils.LoggerHandler info - Cabs option in the navigation bar is clicked
+[INFO] 2024-06-12 14:34:46,546 utils.LoggerHandler info - Airport transfer radio button in the cabs page is clicked
+[INFO] 2024-06-12 14:34:46,737 utils.LoggerHandler info - The field 'From' in the cabs page is clicked
+[INFO] 2024-06-12 14:34:46,998 utils.LoggerHandler info - The text Coimbatore International Airport is entered in the 'From' field
+[INFO] 2024-06-12 14:34:48,882 utils.LoggerHandler info - Coimbatore International Airport is selected from the list
+[INFO] 2024-06-12 14:34:49,047 utils.LoggerHandler info - The field 'To' in the cabs page is clicked
+[INFO] 2024-06-12 14:34:49,242 utils.LoggerHandler info - The text Mettupalayam, Tamil Nadu, India
+is entered in the 'To' field
+[INFO] 2024-06-12 14:34:50,254 utils.LoggerHandler info - Mettupalayam, Tamil Nadu, India
+ is selected from the list
+[INFO] 2024-06-12 14:34:50,456 utils.LoggerHandler info - The field 'Pickup Date' is selected
+[INFO] 2024-06-12 14:34:50,554 utils.LoggerHandler info - The Pickup date is selected from the calendar
+[INFO] 2024-06-12 14:34:50,740 utils.LoggerHandler info - The field 'Pickup Time' is selected
+[INFO] 2024-06-12 14:34:50,827 utils.LoggerHandler info - The Pickup time is selected from the drop down list
+[INFO] 2024-06-12 14:34:51,038 utils.LoggerHandler info - Search cabs button is clicked
+[INFO] 2024-06-12 14:34:51,046 utils.LoggerHandler info - Verifying the title of the Cabs Result Page
+[INFO] 2024-06-12 14:34:53,076 utils.LoggerHandler info - Select the first cab in the Cabs result page
+[INFO] 2024-06-12 14:34:53,464 utils.LoggerHandler info - The page is scrolled to the traveller's field
+[INFO] 2024-06-12 14:34:53,611 utils.LoggerHandler info - Click on the 'Full Name' field in the Cabs payment page
+[INFO] 2024-06-12 14:34:53,874 utils.LoggerHandler info - Full name of the traveller is entered in the 'Name' field
+[INFO] 2024-06-12 14:34:54,012 utils.LoggerHandler info - Click on the 'Mobile number' field in the Cabs payment page
+[INFO] 2024-06-12 14:34:54,370 utils.LoggerHandler info - Mobile Number of the traveller is entered in the 'Mobile Number' field
+[INFO] 2024-06-12 14:34:54,545 utils.LoggerHandler info - Click on the 'Email' field in the Cabs payment page
+[INFO] 2024-06-12 14:34:54,882 utils.LoggerHandler info - Email of the traveller is entered in the 'Email' field
+[INFO] 2024-06-12 14:34:55,089 utils.LoggerHandler info - Click on the 'Confirm and Pay' button in the Cabs payment page
+[INFO] 2024-06-12 14:35:00,566 utils.LoggerHandler info - The field 'From' in the cabs page is clicked
+[INFO] 2024-06-12 14:35:00,790 utils.LoggerHandler info - The text Indira Gandhi International Airport, Delhi 
+ is entered in the 'From' field
+[INFO] 2024-06-12 14:35:01,439 utils.LoggerHandler info - Indira Gandhi International Airport, Delhi 
+ is selected from the list
+[INFO] 2024-06-12 14:35:01,521 utils.LoggerHandler info - The field 'To' in the cabs page is clicked
+[INFO] 2024-06-12 14:35:01,669 utils.LoggerHandler info - The text Gurgaon, Haryana, India
+is entered in the 'To' field
+[INFO] 2024-06-12 14:35:02,255 utils.LoggerHandler info - Gurgaon, Haryana, India is selected from the list
+[INFO] 2024-06-12 14:35:02,354 utils.LoggerHandler info - The field 'Pickup Date' is selected
+[INFO] 2024-06-12 14:35:02,404 utils.LoggerHandler info - The Pickup date is selected from the calendar
+[INFO] 2024-06-12 14:35:02,487 utils.LoggerHandler info - The field 'Pickup Time' is selected
+[INFO] 2024-06-12 14:35:02,529 utils.LoggerHandler info - The Pickup time is selected from the drop down list
+[INFO] 2024-06-12 14:35:02,642 utils.LoggerHandler info - Search cabs button is clicked
+[INFO] 2024-06-12 14:35:04,043 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 14:35:08,327 utils.LoggerHandler info - Popup Closed

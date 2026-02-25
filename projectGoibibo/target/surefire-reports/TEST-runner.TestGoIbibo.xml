@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.TestGoIbibo" time="296.389" tests="10" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+    <property name="java.class.path" value="C:\Users\10740061\Downloads\projectGoibibo.zip_expanded\projectGoibibo\target\test-classes;C:\Users\10740061\Downloads\projectGoibibo.zip_expanded\projectGoibibo\target\classes;C:\Users\10740061\.m2\repository\me\tongfei\progressbar\0.10.0\progressbar-0.10.0.jar;C:\Users\10740061\.m2\repository\org\jline\jline\3.23.0\jline-3.23.0.jar;C:\Users\10740061\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-java\4.21.0\selenium-java-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-api\4.21.0\selenium-api-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.21.0\selenium-chrome-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.21.0\selenium-chromium-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-json\4.21.0\selenium-json-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.21.0\selenium-manager-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.21.0\selenium-devtools-v123-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.21.0\selenium-devtools-v124-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v125\4.21.0\selenium-devtools-v125-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.21.0\selenium-devtools-v85-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.21.0\selenium-edge-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.21.0\selenium-firefox-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-http\4.21.0\selenium-http-4.21.0.jar;C:\Users\10740061\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.21.0\selenium-ie-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.21.0\selenium-remote-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\com\google\guava\guava\33.2.0-jre\guava-33.2.0-jre.jar;C:\Users\10740061\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\10740061\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\10740061\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\10740061\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\10740061\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\10740061\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-api\1.38.0\opentelemetry-api-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-context\1.38.0\opentelemetry-context-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.38.0\opentelemetry-exporter-logging-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.38.0\opentelemetry-sdk-common-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.38.0\opentelemetry-sdk-extension-autoconfigure-spi-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.38.0\opentelemetry-sdk-extension-autoconfigure-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.38.0-alpha\opentelemetry-api-incubator-1.38.0-alpha.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.38.0\opentelemetry-sdk-trace-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.38.0\opentelemetry-sdk-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.38.0\opentelemetry-sdk-metrics-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.38.0\opentelemetry-sdk-logs-1.38.0.jar;C:\Users\10740061\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-os\4.21.0\selenium-os-4.21.0.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.21.0\selenium-safari-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-support\4.21.0\selenium-support-4.21.0.jar;C:\Users\10740061\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\10740061\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\10740061\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\10740061\.m2\repository\io\github\bonigarcia\webdrivermanager\5.8.0\webdrivermanager-5.8.0.jar;C:\Users\10740061\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java\3.3.6\docker-java-3.3.6.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-core\3.3.6\docker-java-core-3.3.6.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-api\3.3.6\docker-java-api-3.3.6.jar;C:\Users\10740061\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\10740061\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\10740061\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.6\docker-java-transport-httpclient5-3.3.6.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-transport\3.3.6\docker-java-transport-3.3.6.jar;C:\Users\10740061\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\10740061\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-compress\1.26.1\commons-compress-1.26.1.jar;C:\Users\10740061\.m2\repository\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;C:\Users\10740061\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\10740061\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\10740061\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\10740061\.m2\repository\ch\qos\reload4j\reload4j\1.2.22\reload4j-1.2.22.jar;C:\Users\10740061\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\10740061\.m2\repository\org\slf4j\slf4j-simple\2.0.13\slf4j-simple-2.0.13.jar;C:\Users\10740061\.m2\repository\org\apache\poi\poi\5.0.0\poi-5.0.0.jar;C:\Users\10740061\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\10740061\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\10740061\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\10740061\.m2\repository\org\apache\poi\poi-ooxml\5.0.0\poi-ooxml-5.0.0.jar;C:\Users\10740061\.m2\repository\org\apache\poi\poi-ooxml-lite\5.0.0\poi-ooxml-lite-5.0.0.jar;C:\Users\10740061\.m2\repository\org\apache\xmlbeans\xmlbeans\4.0.0\xmlbeans-4.0.0.jar;C:\Users\10740061\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.68\bcpkix-jdk15on-1.68.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.68\bcprov-jdk15on-1.68.jar;C:\Users\10740061\.m2\repository\org\apache\santuario\xmlsec\2.2.1\xmlsec-2.2.1.jar;C:\Users\10740061\.m2\repository\com\fasterxml\woodstox\woodstox-core\5.2.1\woodstox-core-5.2.1.jar;C:\Users\10740061\.m2\repository\org\codehaus\woodstox\stax2-api\4.2\stax2-api-4.2.jar;C:\Users\10740061\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.2\jakarta.xml.bind-api-2.3.2.jar;C:\Users\10740061\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.1\jakarta.activation-api-1.2.1.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-all\1.13\batik-all-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-anim\1.13\batik-anim-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-shared-resources\1.13\batik-shared-resources-1.13.jar;C:\Users\10740061\.m2\repository\xml-apis\xml-apis-ext\1.3.04\xml-apis-ext-1.3.04.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-awt-util\1.13\batik-awt-util-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\xmlgraphics-commons\2.4\xmlgraphics-commons-2.4.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-bridge\1.13\batik-bridge-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-codec\1.13\batik-codec-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-constants\1.13\batik-constants-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-css\1.13\batik-css-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-dom\1.13\batik-dom-1.13.jar;C:\Users\10740061\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar;C:\Users\10740061\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar;C:\Users\10740061\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-ext\1.13\batik-ext-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-extension\1.13\batik-extension-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-gui-util\1.13\batik-gui-util-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-gvt\1.13\batik-gvt-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-i18n\1.13\batik-i18n-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-parser\1.13\batik-parser-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-rasterizer-ext\1.13\batik-rasterizer-ext-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-rasterizer\1.13\batik-rasterizer-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-script\1.13\batik-script-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-slideshow\1.13\batik-slideshow-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-squiggle-ext\1.13\batik-squiggle-ext-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-squiggle\1.13\batik-squiggle-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svg-dom\1.13\batik-svg-dom-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svgbrowser\1.13\batik-svgbrowser-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svggen\1.13\batik-svggen-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svgpp\1.13\batik-svgpp-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svgrasterizer\1.13\batik-svgrasterizer-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-swing\1.13\batik-swing-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-transcoder\1.13\batik-transcoder-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-util\1.13\batik-util-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-ttf2svg\1.13\batik-ttf2svg-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-xml\1.13\batik-xml-1.13.jar;C:\Users\10740061\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\10740061\.m2\repository\org\apache\pdfbox\pdfbox\2.0.22\pdfbox-2.0.22.jar;C:\Users\10740061\.m2\repository\org\apache\pdfbox\fontbox\2.0.22\fontbox-2.0.22.jar;C:\Users\10740061\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\10740061\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\10740061\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\10740061\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\10740061\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-testng\2.17.3\allure-testng-2.17.3.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-java-commons\2.17.3\allure-java-commons-2.17.3.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-model\2.17.3\allure-model-2.17.3.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-test-filter\2.17.3\allure-test-filter-2.17.3.jar;C:\Users\10740061\.m2\repository\org\aspectj\aspectjweaver\1.9.9.1\aspectjweaver-1.9.9.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.22.7-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\10740061\AppData\Local\Temp\surefire2684372898562174158\surefirebooter-20240612190743600_3.jar C:\Users\10740061\AppData\Local\Temp\surefire2684372898562174158 2024-06-12T19-07-43_330-jvmRun1 surefire-20240612190743600_1tmp surefire_0-20240612190743600_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\10740061\Downloads\projectGoibibo.zip_expanded\projectGoibibo\target\test-classes;C:\Users\10740061\Downloads\projectGoibibo.zip_expanded\projectGoibibo\target\classes;C:\Users\10740061\.m2\repository\me\tongfei\progressbar\0.10.0\progressbar-0.10.0.jar;C:\Users\10740061\.m2\repository\org\jline\jline\3.23.0\jline-3.23.0.jar;C:\Users\10740061\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-java\4.21.0\selenium-java-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-api\4.21.0\selenium-api-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.21.0\selenium-chrome-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.21.0\selenium-chromium-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-json\4.21.0\selenium-json-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.21.0\selenium-manager-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.21.0\selenium-devtools-v123-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.21.0\selenium-devtools-v124-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v125\4.21.0\selenium-devtools-v125-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.21.0\selenium-devtools-v85-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.21.0\selenium-edge-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.21.0\selenium-firefox-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-http\4.21.0\selenium-http-4.21.0.jar;C:\Users\10740061\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.21.0\selenium-ie-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.21.0\selenium-remote-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\com\google\guava\guava\33.2.0-jre\guava-33.2.0-jre.jar;C:\Users\10740061\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\10740061\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\10740061\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\10740061\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\10740061\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\10740061\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-api\1.38.0\opentelemetry-api-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-context\1.38.0\opentelemetry-context-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.38.0\opentelemetry-exporter-logging-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.38.0\opentelemetry-sdk-common-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.38.0\opentelemetry-sdk-extension-autoconfigure-spi-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.38.0\opentelemetry-sdk-extension-autoconfigure-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.38.0-alpha\opentelemetry-api-incubator-1.38.0-alpha.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.38.0\opentelemetry-sdk-trace-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.38.0\opentelemetry-sdk-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.38.0\opentelemetry-sdk-metrics-1.38.0.jar;C:\Users\10740061\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.38.0\opentelemetry-sdk-logs-1.38.0.jar;C:\Users\10740061\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-os\4.21.0\selenium-os-4.21.0.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.21.0\selenium-safari-driver-4.21.0.jar;C:\Users\10740061\.m2\repository\org\seleniumhq\selenium\selenium-support\4.21.0\selenium-support-4.21.0.jar;C:\Users\10740061\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\10740061\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\10740061\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\10740061\.m2\repository\io\github\bonigarcia\webdrivermanager\5.8.0\webdrivermanager-5.8.0.jar;C:\Users\10740061\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java\3.3.6\docker-java-3.3.6.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-core\3.3.6\docker-java-core-3.3.6.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-api\3.3.6\docker-java-api-3.3.6.jar;C:\Users\10740061\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\10740061\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\10740061\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.6\docker-java-transport-httpclient5-3.3.6.jar;C:\Users\10740061\.m2\repository\com\github\docker-java\docker-java-transport\3.3.6\docker-java-transport-3.3.6.jar;C:\Users\10740061\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\10740061\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-compress\1.26.1\commons-compress-1.26.1.jar;C:\Users\10740061\.m2\repository\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;C:\Users\10740061\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\10740061\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\10740061\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\10740061\.m2\repository\ch\qos\reload4j\reload4j\1.2.22\reload4j-1.2.22.jar;C:\Users\10740061\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\10740061\.m2\repository\org\slf4j\slf4j-simple\2.0.13\slf4j-simple-2.0.13.jar;C:\Users\10740061\.m2\repository\org\apache\poi\poi\5.0.0\poi-5.0.0.jar;C:\Users\10740061\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\10740061\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\10740061\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\10740061\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\10740061\.m2\repository\org\apache\poi\poi-ooxml\5.0.0\poi-ooxml-5.0.0.jar;C:\Users\10740061\.m2\repository\org\apache\poi\poi-ooxml-lite\5.0.0\poi-ooxml-lite-5.0.0.jar;C:\Users\10740061\.m2\repository\org\apache\xmlbeans\xmlbeans\4.0.0\xmlbeans-4.0.0.jar;C:\Users\10740061\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.68\bcpkix-jdk15on-1.68.jar;C:\Users\10740061\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.68\bcprov-jdk15on-1.68.jar;C:\Users\10740061\.m2\repository\org\apache\santuario\xmlsec\2.2.1\xmlsec-2.2.1.jar;C:\Users\10740061\.m2\repository\com\fasterxml\woodstox\woodstox-core\5.2.1\woodstox-core-5.2.1.jar;C:\Users\10740061\.m2\repository\org\codehaus\woodstox\stax2-api\4.2\stax2-api-4.2.jar;C:\Users\10740061\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.2\jakarta.xml.bind-api-2.3.2.jar;C:\Users\10740061\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.1\jakarta.activation-api-1.2.1.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-all\1.13\batik-all-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-anim\1.13\batik-anim-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-shared-resources\1.13\batik-shared-resources-1.13.jar;C:\Users\10740061\.m2\repository\xml-apis\xml-apis-ext\1.3.04\xml-apis-ext-1.3.04.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-awt-util\1.13\batik-awt-util-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\xmlgraphics-commons\2.4\xmlgraphics-commons-2.4.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-bridge\1.13\batik-bridge-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-codec\1.13\batik-codec-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-constants\1.13\batik-constants-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-css\1.13\batik-css-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-dom\1.13\batik-dom-1.13.jar;C:\Users\10740061\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar;C:\Users\10740061\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar;C:\Users\10740061\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-ext\1.13\batik-ext-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-extension\1.13\batik-extension-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-gui-util\1.13\batik-gui-util-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-gvt\1.13\batik-gvt-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-i18n\1.13\batik-i18n-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-parser\1.13\batik-parser-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-rasterizer-ext\1.13\batik-rasterizer-ext-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-rasterizer\1.13\batik-rasterizer-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-script\1.13\batik-script-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-slideshow\1.13\batik-slideshow-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-squiggle-ext\1.13\batik-squiggle-ext-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-squiggle\1.13\batik-squiggle-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svg-dom\1.13\batik-svg-dom-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svgbrowser\1.13\batik-svgbrowser-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svggen\1.13\batik-svggen-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svgpp\1.13\batik-svgpp-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-svgrasterizer\1.13\batik-svgrasterizer-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-swing\1.13\batik-swing-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-transcoder\1.13\batik-transcoder-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-util\1.13\batik-util-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-ttf2svg\1.13\batik-ttf2svg-1.13.jar;C:\Users\10740061\.m2\repository\org\apache\xmlgraphics\batik-xml\1.13\batik-xml-1.13.jar;C:\Users\10740061\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\10740061\.m2\repository\org\apache\pdfbox\pdfbox\2.0.22\pdfbox-2.0.22.jar;C:\Users\10740061\.m2\repository\org\apache\pdfbox\fontbox\2.0.22\fontbox-2.0.22.jar;C:\Users\10740061\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\10740061\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\10740061\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\10740061\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\10740061\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-testng\2.17.3\allure-testng-2.17.3.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-java-commons\2.17.3\allure-java-commons-2.17.3.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-model\2.17.3\allure-model-2.17.3.jar;C:\Users\10740061\.m2\repository\io\qameta\allure\allure-test-filter\2.17.3\allure-test-filter-2.17.3.jar;C:\Users\10740061\.m2\repository\org\aspectj\aspectjweaver\1.9.9.1\aspectjweaver-1.9.9.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\10740061"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.22.7-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="C:\Users\10740061\Downloads\projectGoibibo.zip_expanded\projectGoibibo"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="logFile" value="logfile_Wed-12-06-2024_07-07-45"/>
+    <property name="surefire.real.class.path" value="C:\Users\10740061\AppData\Local\Temp\surefire2684372898562174158\surefirebooter-20240612190743600_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.22+7"/>
+    <property name="user.name" value="10740061"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-11.0.22+7"/>
+    <property name="localRepository" value="C:\Users\10740061\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\10740061\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.22"/>
+    <property name="user.dir" value="C:\Users\10740061\Downloads\projectGoibibo.zip_expanded\projectGoibibo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.22.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/10740061/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830/jre/bin/server;C:/Users/10740061/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830/jre/bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.22.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\WindowsPowerShell\Scripts;C:\Program Files\ServiceNow\agent-client-collector\bin;C:\Program Files\ServiceNow\agent-client-collector\embedded\bin;C:\Program Files\apache-maven-3.9.6\bin;C:\Users\10740061\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Eclipse Adoptium\jdk-11.0.22.7-hotspot\bin;C:\Program Files\apache-maven-3.9.6\bin;C:\Users\10740061\Downloads\allure-commandline-2.10.0\allure-2.10.0\bin;;C:\Users\10740061\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="11.0.22+7"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="verifySearchHotelsFunctionality" classname="runner.TestGoIbibo" time="20.909">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:07:45,056 utils.LoggerHandler info - Goibibo report generated
+[INFO] 2024-06-12 19:07:46,996 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:07:51,422 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 19:07:51,517 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 19:07:54,422 utils.LoggerHandler info - Click on Hotels Section
+[INFO] 2024-06-12 19:07:54,711 utils.LoggerHandler info - Click on India Radio Button
+[INFO] 2024-06-12 19:07:54,838 utils.LoggerHandler info - Click on Input Search Bar
+[INFO] 2024-06-12 19:07:56,235 utils.LoggerHandler info - Entered value in search bar
+[INFO] 2024-06-12 19:07:56,280 utils.LoggerHandler info - Perform Arrow Down Action in Search Bar
+[INFO] 2024-06-12 19:07:57,432 utils.LoggerHandler info - Perform Enter Action in Input Search Bar
+[INFO] 2024-06-12 19:07:57,521 utils.LoggerHandler info - Click on calendar
+[INFO] 2024-06-12 19:07:57,607 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 19:07:57,714 utils.LoggerHandler info - Click on 23rd June
+[INFO] 2024-06-12 19:07:57,854 utils.LoggerHandler info - Click on guests and rooms
+[INFO] 2024-06-12 19:07:57,936 utils.LoggerHandler info - Increment child count by one
+[INFO] 2024-06-12 19:07:58,007 utils.LoggerHandler info - Click On child age option
+[INFO] 2024-06-12 19:07:58,105 utils.LoggerHandler info - Click On child age 3
+[INFO] 2024-06-12 19:07:58,200 utils.LoggerHandler info - Click On Done Button
+[INFO] 2024-06-12 19:07:58,316 utils.LoggerHandler info - Click On Search Button
+[INFO] 2024-06-12 19:08:01,049 utils.LoggerHandler info - Click on Customer Rating 4.5
+[INFO] 2024-06-12 19:08:01,170 utils.LoggerHandler info - Click on Free Breakfast Included
+[INFO] 2024-06-12 19:08:01,302 utils.LoggerHandler info - Click on First Hotel
+[INFO] 2024-06-12 19:08:01,330 utils.LoggerHandler info - Tab Switch to Hotels Search Page
+[INFO] 2024-06-12 19:08:04,202 utils.LoggerHandler info - Click on Free Cancelation
+[INFO] 2024-06-12 19:08:04,382 utils.LoggerHandler info - Click on Select Room Button
+[INFO] 2024-06-12 19:08:06,629 utils.LoggerHandler info - Click on Hotels Button
+[INFO] 2024-06-12 19:08:06,850 utils.LoggerHandler info - Click on India Radio Button
+[INFO] 2024-06-12 19:08:06,968 utils.LoggerHandler info - Click on Input Search Bar
+[INFO] 2024-06-12 19:08:07,188 utils.LoggerHandler info - Entered value in search bar
+[INFO] 2024-06-12 19:08:07,310 utils.LoggerHandler info - Perform Arrow Down in Input Search Bar
+[INFO] 2024-06-12 19:08:08,432 utils.LoggerHandler info - Perform Enter Action in Input Search Bar
+[INFO] 2024-06-12 19:08:08,537 utils.LoggerHandler info - Click on calendar
+[INFO] 2024-06-12 19:08:08,619 utils.LoggerHandler info - Click on 12th June
+[INFO] 2024-06-12 19:08:08,719 utils.LoggerHandler info - Click on 15th June
+[INFO] 2024-06-12 19:08:08,814 utils.LoggerHandler info - Click on guests and rooms
+[INFO] 2024-06-12 19:08:08,886 utils.LoggerHandler info - Decrement child count by one
+[INFO] 2024-06-12 19:08:08,967 utils.LoggerHandler info - Increment child count by one
+[INFO] 2024-06-12 19:08:09,032 utils.LoggerHandler info - Click On child age option
+[INFO] 2024-06-12 19:08:09,130 utils.LoggerHandler info - Click On child age 4
+[INFO] 2024-06-12 19:08:09,257 utils.LoggerHandler info - Click On Done Button
+[INFO] 2024-06-12 19:08:09,417 utils.LoggerHandler info - Click On Search Button
+[INFO] 2024-06-12 19:08:11,549 utils.LoggerHandler info - Click on Clear Filters
+[INFO] 2024-06-12 19:08:11,782 utils.LoggerHandler info - Click on Customer Rating 4.5
+[INFO] 2024-06-12 19:08:11,967 utils.LoggerHandler info - Click on Free Breakfast Included
+[INFO] 2024-06-12 19:08:12,054 utils.LoggerHandler info - Click on First Hotel
+[INFO] 2024-06-12 19:08:12,120 utils.LoggerHandler info - Tab Switch to Hotels Search Page
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="currencyFunctionality" classname="runner.TestGoIbibo" time="16.464">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:08:13,717 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:08:16,846 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 19:08:16,921 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 19:08:17,156 utils.LoggerHandler info - Click on Forex Section
+[INFO] 2024-06-12 19:08:17,180 utils.LoggerHandler info - Tab Switch to Forex Cards & Currency Page
+[INFO] 2024-06-12 19:08:21,608 utils.LoggerHandler info - Scrolled upto Multi Currency Option
+[INFO] 2024-06-12 19:08:21,701 utils.LoggerHandler info - Fetched 'What is a Multi Currency Card Option' 
+[INFO] 2024-06-12 19:08:21,732 utils.LoggerHandler info - Verified What is a Multi Currency Option
+[INFO] 2024-06-12 19:08:25,110 utils.LoggerHandler info - Click on Login Pop Up
+[INFO] 2024-06-12 19:08:25,213 utils.LoggerHandler info - Click on Offers Pop Up
+[INFO] 2024-06-12 19:08:27,686 utils.LoggerHandler info - Clicked On More Links
+[INFO] 2024-06-12 19:08:31,724 utils.LoggerHandler info - Verified 'Get started today for free!' 
+[INFO] 2024-06-12 19:08:31,763 utils.LoggerHandler info - Tab Switched to New Extra Net
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="searchTrains" classname="runner.TestGoIbibo" time="20.574">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:08:33,637 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:08:41,792 utils.LoggerHandler info - Trains option in the navigation bar is clicked
+[INFO] 2024-06-12 19:08:42,067 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 19:08:43,113 utils.LoggerHandler info - The text Coimbatore is entered in the 'From' field
+[INFO] 2024-06-12 19:08:43,846 utils.LoggerHandler info - CBE, Coimbatore Main Junction is selected from the list
+[INFO] 2024-06-12 19:08:43,936 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 19:08:44,212 utils.LoggerHandler info - The text Chennai is entered in the 'To' field
+[INFO] 2024-06-12 19:08:45,014 utils.LoggerHandler info - MAS, Chennai - All Stations is selected from the list
+[INFO] 2024-06-12 19:08:45,066 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 19:08:45,268 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 19:08:47,371 utils.LoggerHandler info - Total number of trains available on the selected date is printed
+Total number of trains available on the selected date: 19
+[INFO] 2024-06-12 19:08:48,798 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 19:08:49,056 utils.LoggerHandler info - The text Pune is entered in the 'From' field
+[INFO] 2024-06-12 19:08:49,746 utils.LoggerHandler info - PUNE, Pune Junction is selected from the list
+[INFO] 2024-06-12 19:08:49,839 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 19:08:50,052 utils.LoggerHandler info - The text Mumbai is entered in the 'To' field
+[INFO] 2024-06-12 19:08:50,829 utils.LoggerHandler info - CSTM, Mumbai CST is selected from the list
+[INFO] 2024-06-12 19:08:50,896 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 19:08:51,052 utils.LoggerHandler info - Search Trains button is clicked
+[INFO] 2024-06-12 19:08:53,196 utils.LoggerHandler info - Total number of trains available on the selected date is printed
+Total number of trains available on the selected date: 35
+[INFO] 2024-06-12 19:08:54,416 utils.LoggerHandler info - The field 'From' in the trains page is clicked
+[INFO] 2024-06-12 19:08:54,616 utils.LoggerHandler info - The text Hyderabad is entered in the 'From' field
+[INFO] 2024-06-12 19:08:55,363 utils.LoggerHandler info - HYB, Hyderabad Deccan is selected from the list
+[INFO] 2024-06-12 19:08:55,486 utils.LoggerHandler info - The field 'To' in the trains page is clicked
+[INFO] 2024-06-12 19:08:55,823 utils.LoggerHandler info - The text Goa is entered in the 'To' field
+[INFO] 2024-06-12 19:08:56,563 utils.LoggerHandler info - MAO, Madgaon Junction is selected from the list
+[INFO] 2024-06-12 19:08:56,635 utils.LoggerHandler info - Departure date is selected from the calendar
+[INFO] 2024-06-12 19:08:56,802 utils.LoggerHandler info - Search Trains button is clicked
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="searchCabs" classname="runner.TestGoIbibo" time="22.693">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:08:58,145 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:09:07,505 utils.LoggerHandler info - Cabs option in the navigation bar is clicked
+[INFO] 2024-06-12 19:09:07,707 utils.LoggerHandler info - Airport transfer radio button in the cabs page is clicked
+[INFO] 2024-06-12 19:09:07,805 utils.LoggerHandler info - The field 'From' in the cabs page is clicked
+[INFO] 2024-06-12 19:09:07,977 utils.LoggerHandler info - The text Coimbatore International Airport is entered in the 'From' field
+[INFO] 2024-06-12 19:09:08,652 utils.LoggerHandler info - Coimbatore International Airport is selected from the list
+[INFO] 2024-06-12 19:09:08,766 utils.LoggerHandler info - The field 'To' in the cabs page is clicked
+[INFO] 2024-06-12 19:09:08,957 utils.LoggerHandler info - The text Mettupalayam, Tamil Nadu, India
+is entered in the 'To' field
+[INFO] 2024-06-12 19:09:09,946 utils.LoggerHandler info - Mettupalayam, Tamil Nadu, India
+ is selected from the list
+[INFO] 2024-06-12 19:09:10,052 utils.LoggerHandler info - The field 'Pickup Date' is selected
+[INFO] 2024-06-12 19:09:10,115 utils.LoggerHandler info - The Pickup date is selected from the calendar
+[INFO] 2024-06-12 19:09:10,228 utils.LoggerHandler info - The field 'Pickup Time' is selected
+[INFO] 2024-06-12 19:09:10,286 utils.LoggerHandler info - The Pickup time is selected from the drop down list
+[INFO] 2024-06-12 19:09:10,449 utils.LoggerHandler info - Search cabs button is clicked
+[INFO] 2024-06-12 19:09:10,470 utils.LoggerHandler info - Verifying the title of the Cabs Result Page
+[INFO] 2024-06-12 19:09:12,542 utils.LoggerHandler info - Select the first cab in the Cabs result page
+[INFO] 2024-06-12 19:09:12,979 utils.LoggerHandler info - The page is scrolled to the traveller's field
+[INFO] 2024-06-12 19:09:13,146 utils.LoggerHandler info - Click on the 'Full Name' field in the Cabs payment page
+[INFO] 2024-06-12 19:09:13,332 utils.LoggerHandler info - Full name of the traveller is entered in the 'Name' field
+[INFO] 2024-06-12 19:09:13,414 utils.LoggerHandler info - Click on the 'Mobile number' field in the Cabs payment page
+[INFO] 2024-06-12 19:09:13,680 utils.LoggerHandler info - Mobile Number of the traveller is entered in the 'Mobile Number' field
+[INFO] 2024-06-12 19:09:13,787 utils.LoggerHandler info - Click on the 'Email' field in the Cabs payment page
+[INFO] 2024-06-12 19:09:14,025 utils.LoggerHandler info - Email of the traveller is entered in the 'Email' field
+[INFO] 2024-06-12 19:09:14,170 utils.LoggerHandler info - Click on the 'Confirm and Pay' button in the Cabs payment page
+[INFO] 2024-06-12 19:09:20,880 utils.LoggerHandler info - The field 'From' in the cabs page is clicked
+[INFO] 2024-06-12 19:09:21,115 utils.LoggerHandler info - The text Indira Gandhi International Airport, Delhi 
+ is entered in the 'From' field
+[INFO] 2024-06-12 19:09:21,869 utils.LoggerHandler info - Indira Gandhi International Airport, Delhi 
+ is selected from the list
+[INFO] 2024-06-12 19:09:21,978 utils.LoggerHandler info - The field 'To' in the cabs page is clicked
+[INFO] 2024-06-12 19:09:22,172 utils.LoggerHandler info - The text Gurgaon, Haryana, India
+is entered in the 'To' field
+[INFO] 2024-06-12 19:09:23,017 utils.LoggerHandler info - Gurgaon, Haryana, India is selected from the list
+[INFO] 2024-06-12 19:09:23,138 utils.LoggerHandler info - The field 'Pickup Date' is selected
+[INFO] 2024-06-12 19:09:23,209 utils.LoggerHandler info - The Pickup date is selected from the calendar
+[INFO] 2024-06-12 19:09:23,387 utils.LoggerHandler info - The field 'Pickup Time' is selected
+[INFO] 2024-06-12 19:09:23,480 utils.LoggerHandler info - The Pickup time is selected from the drop down list
+[INFO] 2024-06-12 19:09:23,640 utils.LoggerHandler info - Search cabs button is clicked
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="testBusBooking" classname="runner.TestGoIbibo" time="26.066">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:09:24,985 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:09:28,529 utils.LoggerHandler info - Popup Closed
+[INFO] 2024-06-12 19:09:34,546 utils.LoggerHandler info - Clicked On Bus
+[INFO] 2024-06-12 19:09:34,706 utils.LoggerHandler info - Entered Source Location
+[INFO] 2024-06-12 19:09:35,685 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 19:09:35,876 utils.LoggerHandler info - Entered Destination Location
+[INFO] 2024-06-12 19:09:36,737 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 19:09:36,813 utils.LoggerHandler info - Clicked on Travel date
+[INFO] 2024-06-12 19:09:36,887 utils.LoggerHandler info - Date selected
+[INFO] 2024-06-12 19:09:37,141 utils.LoggerHandler info - Clicked on Search
+[INFO] 2024-06-12 19:09:42,726 utils.LoggerHandler info - selected checkbox Live Tracking
+[INFO] 2024-06-12 19:09:43,758 utils.LoggerHandler info - selected checkbox Go Deal Discount
+[INFO] 2024-06-12 19:09:43,857 utils.LoggerHandler info - scrolled down to Amenities
+[INFO] 2024-06-12 19:09:44,649 utils.LoggerHandler info - selected checkbox Water Bottle
+[INFO] 2024-06-12 19:09:44,691 utils.LoggerHandler info - Number of Buses for selected filter
+Showing
+18 buses
+--------------
+Dream Line Travels Pvt Ltd: 1140
+PRAMUKH TRAVELS: 950
+Mozo travels: 945
+--------------
+[INFO] 2024-06-12 19:09:48,269 utils.LoggerHandler info - Clicked On Bus
+[INFO] 2024-06-12 19:09:48,630 utils.LoggerHandler info - Deleted previously populated text in 'From' input bar
+[INFO] 2024-06-12 19:09:48,764 utils.LoggerHandler info - Entered Source Location
+[INFO] 2024-06-12 19:09:49,561 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 19:09:49,737 utils.LoggerHandler info - Deleted previously populated text in 'To' input bar
+[INFO] 2024-06-12 19:09:49,878 utils.LoggerHandler info - Entered Destination Location
+[INFO] 2024-06-12 19:09:50,433 utils.LoggerHandler info - Selected Option
+[INFO] 2024-06-12 19:09:50,527 utils.LoggerHandler info - Clicked on Travel Date
+[INFO] 2024-06-12 19:09:50,630 utils.LoggerHandler info - Date Selected
+[INFO] 2024-06-12 19:09:50,912 utils.LoggerHandler info - Clicked on Search
+[INFO] 2024-06-12 19:09:52,577 utils.LoggerHandler info - Clicked On Primo Bus Filter
+[INFO] 2024-06-12 19:09:52,811 utils.LoggerHandler info - selected checkbox AC
+[INFO] 2024-06-12 19:09:52,829 utils.LoggerHandler info - scrolled down to Amenities
+[INFO] 2024-06-12 19:09:53,245 utils.LoggerHandler info - selected checkbox Blankets
+[INFO] 2024-06-12 19:09:53,278 utils.LoggerHandler info - Number of Buses for selected filter
+Showing
+7 buses
+--------------
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="testFooter" classname="runner.TestGoIbibo" time="36.701">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:09:54,744 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:09:58,258 utils.LoggerHandler info - Popup Closed
+[INFO] 2024-06-12 19:10:01,193 utils.LoggerHandler info - Clicked on About Us
+[INFO] 2024-06-12 19:10:01,201 utils.LoggerHandler info - About Us - link verified
+[INFO] 2024-06-12 19:10:04,617 utils.LoggerHandler info - Clicked on Investor Relations
+[INFO] 2024-06-12 19:10:04,631 utils.LoggerHandler info - Investor Relations - link verified
+[INFO] 2024-06-12 19:10:07,630 utils.LoggerHandler info - Clicked on Management
+[INFO] 2024-06-12 19:10:07,638 utils.LoggerHandler info - Management - link verified
+[INFO] 2024-06-12 19:10:09,714 utils.LoggerHandler info - Clicked on User Agreement
+[INFO] 2024-06-12 19:10:09,757 utils.LoggerHandler info - User Agreement - link verified
+[INFO] 2024-06-12 19:10:11,408 utils.LoggerHandler info - Clicked on Privacy
+[INFO] 2024-06-12 19:10:11,444 utils.LoggerHandler info - Privacy - link verified
+[INFO] 2024-06-12 19:10:12,952 utils.LoggerHandler info - Clicked on Careers
+[INFO] 2024-06-12 19:10:12,979 utils.LoggerHandler info - Switched to Careers tab
+[INFO] 2024-06-12 19:10:14,550 utils.LoggerHandler info - Careers - link verified
+[INFO] 2024-06-12 19:10:14,738 utils.LoggerHandler info - Clicked on YouTube Channel
+[INFO] 2024-06-12 19:10:14,749 utils.LoggerHandler info - Switched to YouTube Channel tab
+[INFO] 2024-06-12 19:10:18,870 utils.LoggerHandler info - YouTube Channel - link verified
+[INFO] 2024-06-12 19:10:19,157 utils.LoggerHandler info - Clicked on Technology@Goibibo
+[INFO] 2024-06-12 19:10:19,181 utils.LoggerHandler info - Switched to Technology tab
+[INFO] 2024-06-12 19:10:24,518 utils.LoggerHandler info - Technology@Goibibo - link verified
+[INFO] 2024-06-12 19:10:24,691 utils.LoggerHandler info - Clicked on Facebook Page
+[INFO] 2024-06-12 19:10:24,710 utils.LoggerHandler info - Switched to Facebook Page tab
+[INFO] 2024-06-12 19:10:27,676 utils.LoggerHandler info - Facebook Page - link verified
+[INFO] 2024-06-12 19:10:27,852 utils.LoggerHandler info - Clicked on Twitter Handle
+[INFO] 2024-06-12 19:10:27,876 utils.LoggerHandler info - Switched to Twitter tab
+[INFO] 2024-06-12 19:10:34,660 utils.LoggerHandler info - Twitter Handle - link verified
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="searchCabsAndLoginSignupFunctionality" classname="runner.TestGoIbibo" time="16.406">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:10:36,144 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:10:45,278 utils.LoggerHandler info - Cabs option in the navigation bar is clicked
+[INFO] 2024-06-12 19:10:45,310 utils.LoggerHandler info - Switched to new window
+[INFO] 2024-06-12 19:10:45,447 utils.LoggerHandler info - Clicked on outstation one way radio button
+[INFO] 2024-06-12 19:10:45,528 utils.LoggerHandler info - Clicked on Pickup Location field on cabs page
+[INFO] 2024-06-12 19:10:45,679 utils.LoggerHandler info - Entered data in pickup location firld
+[INFO] 2024-06-12 19:10:47,767 utils.LoggerHandler info - Down arrow action performed
+[INFO] 2024-06-12 19:10:47,843 utils.LoggerHandler info - Enter action performed
+[INFO] 2024-06-12 19:10:47,953 utils.LoggerHandler info - Clicked on Drop Location field on cabs page
+[INFO] 2024-06-12 19:10:48,059 utils.LoggerHandler info - Entered data in drop location field
+[INFO] 2024-06-12 19:10:50,127 utils.LoggerHandler info - Down arrow action performed
+[INFO] 2024-06-12 19:10:50,183 utils.LoggerHandler info - Enter action performed
+[INFO] 2024-06-12 19:10:50,289 utils.LoggerHandler info - Clicked on pickup Date Input Field
+[INFO] 2024-06-12 19:10:50,383 utils.LoggerHandler info - Selected Date
+[INFO] 2024-06-12 19:10:50,521 utils.LoggerHandler info - Clicked on pickup Time Input Field
+[INFO] 2024-06-12 19:10:50,561 utils.LoggerHandler info - Scrolled on pickup time field
+[INFO] 2024-06-12 19:10:50,667 utils.LoggerHandler info - Selected Time
+[INFO] 2024-06-12 19:10:50,796 utils.LoggerHandler info - Clicked on Search Cabs
+[INFO] 2024-06-12 19:10:50,804 utils.LoggerHandler info - Switched to new window
+[INFO] 2024-06-12 19:10:52,816 utils.LoggerHandler info - Scrolled till car model filter
+[INFO] 2024-06-12 19:10:52,919 utils.LoggerHandler info - Clicked on dzire or similar in car model filter
+[INFO] 2024-06-12 19:10:52,945 utils.LoggerHandler info - Scrolled till car select button
+[INFO] 2024-06-12 19:10:53,071 utils.LoggerHandler info - Clicked on first car select button
+[INFO] 2024-06-12 19:10:53,761 utils.LoggerHandler info - Clicked on pay and confirm now
+[INFO] 2024-06-12 19:10:53,784 utils.LoggerHandler info - Scrolled till gendre dropdown button on cabs search result page
+[INFO] 2024-06-12 19:10:53,917 utils.LoggerHandler info - Selected female value in gender dropdown
+[INFO] 2024-06-12 19:10:54,104 utils.LoggerHandler info - Entered data in name input field in traveller details
+[INFO] 2024-06-12 19:10:54,312 utils.LoggerHandler info - Entered data in mobile number input field in traveller details
+[INFO] 2024-06-12 19:10:54,509 utils.LoggerHandler info - Entered data in email input field in traveller details
+[INFO] 2024-06-12 19:10:54,640 utils.LoggerHandler info - Clicked on signin/signup field
+[INFO] 2024-06-12 19:10:54,740 utils.LoggerHandler info - login and sign up text verified
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="homePageFooterSectionFunctionality" classname="runner.TestGoIbibo" time="12.702">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:10:57,912 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:11:01,729 utils.LoggerHandler info - Closed login popup
+[INFO] 2024-06-12 19:11:05,709 utils.LoggerHandler info - Clicked on cheap flights
+[INFO] 2024-06-12 19:11:05,717 utils.LoggerHandler info - cheap flights url verified
+[INFO] 2024-06-12 19:11:07,630 utils.LoggerHandler info - Clicked on my account
+[INFO] 2024-06-12 19:11:07,658 utils.LoggerHandler info - my profile text verified
+[INFO] 2024-06-12 19:11:09,466 utils.LoggerHandler info - Clicked on wallet
+[INFO] 2024-06-12 19:11:09,498 utils.LoggerHandler info - provides information gocash balance verified
+[INFO] 2024-06-12 19:11:13,330 utils.LoggerHandler info - Clicked on advertise with us
+[INFO] 2024-06-12 19:11:13,359 utils.LoggerHandler info -  provides information on advertising verified
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="homePage" classname="runner.TestGoIbibo" time="39.538">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:11:15,668 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:11:20,346 utils.LoggerHandler info - Hide Pop up
+[INFO] 2024-06-12 19:11:20,446 utils.LoggerHandler info - Hide Offer Pop up
+[INFO] 2024-06-12 19:11:21,564 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 19:11:21,677 utils.LoggerHandler info - Enter Bengaluru
+[INFO] 2024-06-12 19:11:22,761 utils.LoggerHandler info - Press Enter on Mumbai
+[INFO] 2024-06-12 19:11:22,861 utils.LoggerHandler info - Enter New Delhi
+[INFO] 2024-06-12 19:11:23,940 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 19:11:24,063 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 19:11:24,159 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 19:11:24,263 utils.LoggerHandler info - Click on Return
+[INFO] 2024-06-12 19:11:24,337 utils.LoggerHandler info - Click on 23rd June
+[INFO] 2024-06-12 19:11:24,417 utils.LoggerHandler info - Click on Travellers
+[INFO] 2024-06-12 19:11:24,489 utils.LoggerHandler info - Increase Adult Count
+[INFO] 2024-06-12 19:11:24,553 utils.LoggerHandler info - Increase Child Count
+[INFO] 2024-06-12 19:11:24,620 utils.LoggerHandler info - Click on Business
+[INFO] 2024-06-12 19:11:24,789 utils.LoggerHandler info - Click on Done
+[INFO] 2024-06-12 19:11:25,642 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 19:11:38,161 utils.LoggerHandler info - Click on Flights
+[INFO] 2024-06-12 19:11:39,279 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 19:11:40,396 utils.LoggerHandler info - Enter Hyderabad
+[INFO] 2024-06-12 19:11:41,460 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 19:11:42,572 utils.LoggerHandler info - Enter Mumbai
+[INFO] 2024-06-12 19:11:43,645 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 19:11:43,748 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 19:11:43,838 utils.LoggerHandler info - Click On 11th June
+[INFO] 2024-06-12 19:11:43,929 utils.LoggerHandler info - Click On 14th June
+[INFO] 2024-06-12 19:11:45,616 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 19:11:51,024 utils.LoggerHandler info - Click on Flights
+[INFO] 2024-06-12 19:11:52,135 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 19:11:53,237 utils.LoggerHandler info - Enter Kolkata
+[INFO] 2024-06-12 19:11:54,292 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 19:11:55,426 utils.LoggerHandler info - Enter Chennai
+[INFO] 2024-06-12 19:11:56,485 utils.LoggerHandler info - Press Enter
+[INFO] 2024-06-12 19:11:56,583 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 19:11:56,615 utils.LoggerHandler info - Click on 17th June
+[INFO] 2024-06-12 19:11:56,664 utils.LoggerHandler info - Click on 21th June
+[INFO] 2024-06-12 19:11:56,745 utils.LoggerHandler info - Click on Travellers
+[INFO] 2024-06-12 19:11:56,827 utils.LoggerHandler info - Decrease Adult Count
+[INFO] 2024-06-12 19:11:56,924 utils.LoggerHandler info - Increase Child Count
+[INFO] 2024-06-12 19:11:57,003 utils.LoggerHandler info - Click on Done
+[INFO] 2024-06-12 19:11:58,571 utils.LoggerHandler info - Click on Search Flights
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="multiplePageExploration" classname="runner.TestGoIbibo" time="34.665">
+    <system-out><![CDATA[[INFO] 2024-06-12 19:12:00,169 utils.LoggerHandler info - Chrome browser is set up
+[INFO] 2024-06-12 19:12:06,110 utils.LoggerHandler info - Click on Popup Cancellation Button
+[INFO] 2024-06-12 19:12:06,241 utils.LoggerHandler info - Click on Offers Pop up Cancellation Button
+[INFO] 2024-06-12 19:12:06,330 utils.LoggerHandler info - Click on From Box
+[INFO] 2024-06-12 19:12:06,451 utils.LoggerHandler info - Enter Mumbai
+[INFO] 2024-06-12 19:12:07,526 utils.LoggerHandler info - Enter Mumbai
+[INFO] 2024-06-12 19:12:07,639 utils.LoggerHandler info - Enter Delhi
+[INFO] 2024-06-12 19:12:08,714 utils.LoggerHandler info - Press Enter on Delhi
+[INFO] 2024-06-12 19:12:08,882 utils.LoggerHandler info - Click on Departure
+[INFO] 2024-06-12 19:12:09,981 utils.LoggerHandler info - Click on 15th June
+[INFO] 2024-06-12 19:12:10,087 utils.LoggerHandler info - Click on Return
+[INFO] 2024-06-12 19:12:11,188 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 19:12:11,262 utils.LoggerHandler info - Click on Travellers
+[INFO] 2024-06-12 19:12:11,322 utils.LoggerHandler info - Increase Child Count 
+[INFO] 2024-06-12 19:12:11,419 utils.LoggerHandler info - Click on Economy
+[INFO] 2024-06-12 19:12:11,495 utils.LoggerHandler info - Click on Done
+[INFO] 2024-06-12 19:12:12,202 utils.LoggerHandler info - Click on Search Flights
+[INFO] 2024-06-12 19:12:12,214 utils.LoggerHandler info - Verify the Title
+[INFO] 2024-06-12 19:12:14,121 utils.LoggerHandler info - Click on Trains
+[INFO] 2024-06-12 19:12:16,778 utils.LoggerHandler info - Click on From Trains Box
+[INFO] 2024-06-12 19:12:17,914 utils.LoggerHandler info - Enter Train From Mumbai
+[INFO] 2024-06-12 19:12:18,968 utils.LoggerHandler info - Click on Mumbai
+[INFO] 2024-06-12 19:12:20,041 utils.LoggerHandler info - Click on Trains to Box
+[INFO] 2024-06-12 19:12:21,168 utils.LoggerHandler info - Enter Trains for Pune
+[INFO] 2024-06-12 19:12:22,265 utils.LoggerHandler info - Click on Pune All Staions
+[INFO] 2024-06-12 19:12:23,326 utils.LoggerHandler info - Click on 16th June
+[INFO] 2024-06-12 19:12:23,366 utils.LoggerHandler info - Scroll to Search Trains & Click on it
+[INFO] 2024-06-12 19:12:30,194 utils.LoggerHandler info - Click on Bus
+[INFO] 2024-06-12 19:12:30,298 utils.LoggerHandler info - Click on Bus From
+[INFO] 2024-06-12 19:12:30,373 utils.LoggerHandler info - Successfully entered Delhi
+[INFO] 2024-06-12 19:12:31,529 utils.LoggerHandler info - Clicked on Delhi
+[INFO] 2024-06-12 19:12:31,624 utils.LoggerHandler info - Clicked on 'Bus to'
+[INFO] 2024-06-12 19:12:31,723 utils.LoggerHandler info - Entered Bus to Agra
+[INFO] 2024-06-12 19:12:32,775 utils.LoggerHandler info - Click on Agra
+[INFO] 2024-06-12 19:12:32,907 utils.LoggerHandler info - Click on Date
+[INFO] 2024-06-12 19:12:34,000 utils.LoggerHandler info - Click on 17th June
+[INFO] 2024-06-12 19:12:34,188 utils.LoggerHandler info - Click on Search Buses
+[INFO] 2024-06-12 19:12:35,473 utils.LoggerHandler info - Click on Cabs
+[INFO] 2024-06-12 19:12:35,700 utils.LoggerHandler info - Click on Airport
+[INFO] 2024-06-12 19:12:35,800 utils.LoggerHandler info - Click on Cabs From
+[INFO] 2024-06-12 19:12:35,894 utils.LoggerHandler info - Click on Delhi Airport
+[INFO] 2024-06-12 19:12:37,007 utils.LoggerHandler info - Click on First Suggestion from Cabs
+[INFO] 2024-06-12 19:12:37,111 utils.LoggerHandler info - Click on Cabs To
+[INFO] 2024-06-12 19:12:37,255 utils.LoggerHandler info - Enter value Marriott Delhi
+[INFO] 2024-06-12 19:12:38,371 utils.LoggerHandler info - Click on 1st suggestion from cabs
+[INFO] 2024-06-12 19:12:38,507 utils.LoggerHandler info - Click on Pickup Date
+[INFO] 2024-06-12 19:12:39,577 utils.LoggerHandler info - Click on 20th June
+[INFO] 2024-06-12 19:12:39,673 utils.LoggerHandler info - Click on Search Cabs
+]]></system-out>
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\10740061\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+]]></system-err>
+  </testcase>
+</testsuite>
